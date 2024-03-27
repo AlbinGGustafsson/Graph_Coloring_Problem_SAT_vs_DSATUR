@@ -1,0 +1,9 @@
+Experiment script:
+pysat
+networkx
+
+CSV merger:
+pandas
+
+Instance scraper:
+beautifulsoup4
