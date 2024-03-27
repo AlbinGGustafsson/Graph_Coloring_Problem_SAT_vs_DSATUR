@@ -1,3 +1,5 @@
+This is an experiment that compares a SAT-solving approach to the heuristic algorithm DSATUR in the Graph Coloring Problem.
+
 To run the experiment script, you need to install the following Python packages:
 
 pip install pysat
