@@ -1,4 +1,4 @@
-To run the experiment scripts, you need to install the following Python packages:
+To run the experiment script, you need to install the following Python packages:
 
 pip install pysat
 
