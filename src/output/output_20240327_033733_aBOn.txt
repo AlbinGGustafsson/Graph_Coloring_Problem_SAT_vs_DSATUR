@@ -1,0 +1,2039 @@
+Filename: 1-FullIns_3.col
+Vertices: 30, Edges: 100
+
+Density: 0.22988505747126436
+DSATUR completed, SAT Starting
+Upper bound 4 calculated using largest_first in: 2.9000002541579306e-05
+Colors used: 4, Colors considered: 4, Acc time: 0.0006065000052331015, Iteration time: 0.0005710000041290186
+No valid coloring found with current conflicts budget, acc time: 0.001070300000719726
+Number of colors used (DSATUR): 4
+DSATUR Coloring Time: 0.0003851000001304783
+Number of colors used (SAT): 4
+SAT Coloring Time (Best solution): 0.0006065000052331015
+SAT Coloring Time (Matched with DSATUR): 0.0006065000052331015
+
+
+Filename: 1-FullIns_4.col
+Vertices: 93, Edges: 593
+
+Density: 0.1386161757830762
+DSATUR completed, SAT Starting
+Upper bound 5 calculated using largest_first in: 0.00010459999612066895
+Colors used: 5, Colors considered: 5, Acc time: 0.001936000000569038, Iteration time: 0.0018247999978484586
+No valid coloring found with current conflicts budget, acc time: 0.005226699999184348
+Number of colors used (DSATUR): 5
+DSATUR Coloring Time: 0.0037302999990060925
+Number of colors used (SAT): 5
+SAT Coloring Time (Best solution): 0.001936000000569038
+SAT Coloring Time (Matched with DSATUR): 0.001936000000569038
+
+
+Filename: 1-FullIns_5.col
+Vertices: 282, Edges: 3247
+
+Density: 0.08195149037126777
+DSATUR completed, SAT Starting
+Upper bound 6 calculated using largest_first in: 0.00036079999699722975
+Colors used: 6, Colors considered: 6, Acc time: 0.009248599999409635, Iteration time: 0.008875100000295788
+No valid coloring found with current conflicts budget, acc time: 0.5183276000025216
+Number of colors used (DSATUR): 6
+DSATUR Coloring Time: 0.042064000001118984
+Number of colors used (SAT): 6
+SAT Coloring Time (Best solution): 0.009248599999409635
+SAT Coloring Time (Matched with DSATUR): 0.009248599999409635
+
+
+Filename: 1-Insertions_4.col
+Vertices: 67, Edges: 232
+
+Density: 0.10492989597467209
+DSATUR completed, SAT Starting
+Upper bound 5 calculated using largest_first in: 5.9499994677025825e-05
+Colors used: 5, Colors considered: 5, Acc time: 0.0011658000003080815, Iteration time: 0.0010966999980155379
+No valid coloring found with current conflicts budget, acc time: 0.46079679999820655
+Number of colors used (DSATUR): 5
+DSATUR Coloring Time: 0.001709399999526795
+Number of colors used (SAT): 5
+SAT Coloring Time (Best solution): 0.0011658000003080815
+SAT Coloring Time (Matched with DSATUR): 0.0011658000003080815
+
+
+Filename: 1-Insertions_5.col
+Vertices: 202, Edges: 1227
+
+Density: 0.0604403723954485
+DSATUR completed, SAT Starting
+Upper bound 6 calculated using largest_first in: 0.00019869999960064888
+Colors used: 6, Colors considered: 6, Acc time: 0.004502499999944121, Iteration time: 0.004295099999580998
+No valid coloring found with current conflicts budget, acc time: 0.7115785999994841
+Number of colors used (DSATUR): 6
+DSATUR Coloring Time: 0.01731129999825498
+Number of colors used (SAT): 6
+SAT Coloring Time (Best solution): 0.004502499999944121
+SAT Coloring Time (Matched with DSATUR): 0.004502499999944121
+
+
+Filename: 1-Insertions_6.col
+Vertices: 607, Edges: 6337
+
+Density: 0.03445501057519261
+DSATUR completed, SAT Starting
+Upper bound 7 calculated using largest_first in: 0.0007145999989006668
+Colors used: 7, Colors considered: 7, Acc time: 0.021602599998004735, Iteration time: 0.020873200002824888
+No valid coloring found with current conflicts budget, acc time: 1.320444299999508
+Number of colors used (DSATUR): 7
+DSATUR Coloring Time: 0.19505690000369214
+Number of colors used (SAT): 7
+SAT Coloring Time (Best solution): 0.021602599998004735
+SAT Coloring Time (Matched with DSATUR): 0.021602599998004735
+
+
+Filename: 2-FullIns_3.col
+Vertices: 52, Edges: 201
+
+Density: 0.1515837104072398
+DSATUR completed, SAT Starting
+Upper bound 5 calculated using largest_first in: 5.03999981447123e-05
+Colors used: 5, Colors considered: 5, Acc time: 0.0010163999977521598, Iteration time: 0.0009577000018907711
+No valid coloring found with current conflicts budget, acc time: 0.0020298999952501617
+Number of colors used (DSATUR): 5
+DSATUR Coloring Time: 0.0011003000035998411
+Number of colors used (SAT): 5
+SAT Coloring Time (Best solution): 0.0010163999977521598
+SAT Coloring Time (Matched with DSATUR): 0.0010163999977521598
+
+
+Filename: 2-FullIns_4.col
+Vertices: 212, Edges: 1621
+
+Density: 0.07247607976392739
+DSATUR completed, SAT Starting
+Upper bound 6 calculated using largest_first in: 0.00023179999698186293
+Colors used: 6, Colors considered: 6, Acc time: 0.005240399994363543, Iteration time: 0.005000600001949351
+No valid coloring found with current conflicts budget, acc time: 0.025872699996398296
+Number of colors used (DSATUR): 6
+DSATUR Coloring Time: 0.021866199997020885
+Number of colors used (SAT): 6
+SAT Coloring Time (Best solution): 0.005240399994363543
+SAT Coloring Time (Matched with DSATUR): 0.005240399994363543
+
+
+Filename: 2-FullIns_5.col
+Vertices: 852, Edges: 12201
+
+Density: 0.033655517121530594
+DSATUR completed, SAT Starting
+Upper bound 7 calculated using largest_first in: 0.0012303000039537437
+Colors used: 7, Colors considered: 7, Acc time: 0.0370690999989165, Iteration time: 0.03582020000612829
+No valid coloring found with current conflicts budget, acc time: 1.2656604000003426
+Number of colors used (DSATUR): 7
+DSATUR Coloring Time: 0.49371390000305837
+Number of colors used (SAT): 7
+SAT Coloring Time (Best solution): 0.0370690999989165
+SAT Coloring Time (Matched with DSATUR): 0.0370690999989165
+
+
+Filename: 2-Insertions_3.col
+Vertices: 37, Edges: 72
+
+Density: 0.10810810810810811
+DSATUR completed, SAT Starting
+Upper bound 4 calculated using largest_first in: 3.5099998058285564e-05
+Colors used: 4, Colors considered: 4, Acc time: 0.0005986999967717566, Iteration time: 0.000555599996005185
+No valid coloring found with current conflicts budget, acc time: 0.006599100001039915
+Number of colors used (DSATUR): 4
+DSATUR Coloring Time: 0.0005039999959990382
+Number of colors used (SAT): 4
+SAT Coloring Time (Best solution): 0.0005986999967717566
+SAT Coloring Time (Matched with DSATUR): 0.0005986999967717566
+
+
+Filename: 2-Insertions_4.col
+Vertices: 149, Edges: 541
+
+Density: 0.04906584436785779
+DSATUR completed, SAT Starting
+Upper bound 5 calculated using largest_first in: 0.0001314999972237274
+Colors used: 5, Colors considered: 5, Acc time: 0.002173399996536318, Iteration time: 0.002034800003457349
+No valid coloring found with current conflicts budget, acc time: 0.6196672000005492
+Number of colors used (DSATUR): 5
+DSATUR Coloring Time: 0.008217199996579438
+Number of colors used (SAT): 5
+SAT Coloring Time (Best solution): 0.002173399996536318
+SAT Coloring Time (Matched with DSATUR): 0.002173399996536318
+
+
+Filename: 2-Insertions_5.col
+Vertices: 597, Edges: 3936
+
+Density: 0.022124043033961757
+DSATUR completed, SAT Starting
+Upper bound 6 calculated using largest_first in: 0.0005755999954999425
+Colors used: 6, Colors considered: 6, Acc time: 0.013283999993291218, Iteration time: 0.012696199999481905
+No valid coloring found with current conflicts budget, acc time: 1.115638699993724
+Number of colors used (DSATUR): 6
+DSATUR Coloring Time: 0.15450479999708477
+Number of colors used (SAT): 6
+SAT Coloring Time (Best solution): 0.013283999993291218
+SAT Coloring Time (Matched with DSATUR): 0.013283999993291218
+
+
+Filename: 3-FullIns_3.col
+Vertices: 80, Edges: 346
+
+Density: 0.10949367088607595
+DSATUR completed, SAT Starting
+Upper bound 6 calculated using largest_first in: 8.090000483207405e-05
+Colors used: 6, Colors considered: 6, Acc time: 0.0016784000035841018, Iteration time: 0.0015885999964666553
+No valid coloring found with current conflicts budget, acc time: 0.005012800000258721
+Number of colors used (DSATUR): 6
+DSATUR Coloring Time: 0.0025446999934501946
+Number of colors used (SAT): 6
+SAT Coloring Time (Best solution): 0.0016784000035841018
+SAT Coloring Time (Matched with DSATUR): 0.0016784000035841018
+
+
+Filename: 3-FullIns_4.col
+Vertices: 405, Edges: 3524
+
+Density: 0.043075418652976406
+DSATUR completed, SAT Starting
+Upper bound 7 calculated using largest_first in: 0.0004715999966720119
+Colors used: 7, Colors considered: 7, Acc time: 0.012747100001433864, Iteration time: 0.012263099997653626
+No valid coloring found with current conflicts budget, acc time: 0.26008079999883194
+Number of colors used (DSATUR): 7
+DSATUR Coloring Time: 0.07952839999779826
+Number of colors used (SAT): 7
+SAT Coloring Time (Best solution): 0.012747100001433864
+SAT Coloring Time (Matched with DSATUR): 0.012747100001433864
+
+
+Filename: 3-FullIns_5.col
+Vertices: 2030, Edges: 33751
+
+Density: 0.016388475479925318
+DSATUR completed, SAT Starting
+Upper bound 8 calculated using largest_first in: 0.003167900002154056
+Colors used: 8, Colors considered: 8, Acc time: 0.11678820000088308, Iteration time: 0.1135909000004176
+No valid coloring found with current conflicts budget, acc time: 2.0977608999965014
+Number of colors used (DSATUR): 8
+DSATUR Coloring Time: 2.8242221000036807
+Number of colors used (SAT): 8
+SAT Coloring Time (Best solution): 0.11678820000088308
+SAT Coloring Time (Matched with DSATUR): 0.11678820000088308
+
+
+Filename: 3-Insertions_3.col
+Vertices: 56, Edges: 110
+
+Density: 0.07142857142857142
+DSATUR completed, SAT Starting
+Upper bound 4 calculated using largest_first in: 4.369999805931002e-05
+Colors used: 4, Colors considered: 4, Acc time: 0.0007380999959423207, Iteration time: 0.0006861000001663342
+No valid coloring found with current conflicts budget, acc time: 0.04699840000102995
+Number of colors used (DSATUR): 4
+DSATUR Coloring Time: 0.0010696000026655383
+Number of colors used (SAT): 4
+SAT Coloring Time (Best solution): 0.0007380999959423207
+SAT Coloring Time (Matched with DSATUR): 0.0007380999959423207
+
+
+Filename: 3-Insertions_4.col
+Vertices: 281, Edges: 1046
+
+Density: 0.026588713777325877
+DSATUR completed, SAT Starting
+Upper bound 5 calculated using largest_first in: 0.00022980000358074903
+Colors used: 5, Colors considered: 5, Acc time: 0.00455300000612624, Iteration time: 0.004314400001021568
+No valid coloring found with current conflicts budget, acc time: 0.6925915000028908
+Number of colors used (DSATUR): 5
+DSATUR Coloring Time: 0.02876269999978831
+Number of colors used (SAT): 5
+SAT Coloring Time (Best solution): 0.00455300000612624
+SAT Coloring Time (Matched with DSATUR): 0.00455300000612624
+
+
+Filename: 3-Insertions_5.col
+Vertices: 1406, Edges: 9695
+
+Density: 0.009815584455030044
+DSATUR completed, SAT Starting
+Upper bound 6 calculated using largest_first in: 0.001371300000755582
+Colors used: 6, Colors considered: 6, Acc time: 0.03238730000157375, Iteration time: 0.030995100001746323
+No valid coloring found with current conflicts budget, acc time: 1.5110859999986133
+Number of colors used (DSATUR): 6
+DSATUR Coloring Time: 0.8753951000035158
+Number of colors used (SAT): 6
+SAT Coloring Time (Best solution): 0.03238730000157375
+SAT Coloring Time (Matched with DSATUR): 0.03238730000157375
+
+
+Filename: 4-FullIns_3.col
+Vertices: 114, Edges: 541
+
+Density: 0.0839931687626145
+DSATUR completed, SAT Starting
+Upper bound 7 calculated using largest_first in: 0.00011079999967478216
+Colors used: 7, Colors considered: 7, Acc time: 0.0027772000030381605, Iteration time: 0.0026588000037008896
+No valid coloring found with current conflicts budget, acc time: 0.013665600003150757
+Number of colors used (DSATUR): 7
+DSATUR Coloring Time: 0.00533749999885913
+Number of colors used (SAT): 7
+SAT Coloring Time (Best solution): 0.0027772000030381605
+SAT Coloring Time (Matched with DSATUR): 0.0027772000030381605
+
+
+Filename: 4-FullIns_4.col
+Vertices: 690, Edges: 6650
+
+Density: 0.027975852422119855
+DSATUR completed, SAT Starting
+Upper bound 8 calculated using largest_first in: 0.000836499995784834
+Colors used: 8, Colors considered: 8, Acc time: 0.02705239999340847, Iteration time: 0.026199399995675776
+No valid coloring found with current conflicts budget, acc time: 0.9570494999934454
+Number of colors used (DSATUR): 8
+DSATUR Coloring Time: 0.2531558999980916
+Number of colors used (SAT): 8
+SAT Coloring Time (Best solution): 0.02705239999340847
+SAT Coloring Time (Matched with DSATUR): 0.02705239999340847
+
+
+Filename: 4-FullIns_5.col
+Vertices: 4146, Edges: 77305
+
+Density: 0.008996710535886465
+DSATUR completed, SAT Starting
+Upper bound 9 calculated using largest_first in: 0.0068901999984518625
+Colors used: 9, Colors considered: 9, Acc time: 0.29491289999714354, Iteration time: 0.2879834999985178
+No valid coloring found with current conflicts budget, acc time: 3.8487214999986463
+Number of colors used (DSATUR): 9
+DSATUR Coloring Time: 14.058893699999317
+Number of colors used (SAT): 9
+SAT Coloring Time (Best solution): 0.29491289999714354
+SAT Coloring Time (Matched with DSATUR): 0.29491289999714354
+
+
+Filename: 4-Insertions_3.col
+Vertices: 79, Edges: 156
+
+Density: 0.05063291139240506
+DSATUR completed, SAT Starting
+Upper bound 4 calculated using largest_first in: 6.310000026132911e-05
+Colors used: 4, Colors considered: 4, Acc time: 0.0009292000031564385, Iteration time: 0.0008573000013711862
+No valid coloring found with current conflicts budget, acc time: 0.32416270000248915
+Number of colors used (DSATUR): 4
+DSATUR Coloring Time: 0.0020696999999927357
+Number of colors used (SAT): 4
+SAT Coloring Time (Best solution): 0.0009292000031564385
+SAT Coloring Time (Matched with DSATUR): 0.0009292000031564385
+
+
+Filename: 4-Insertions_4.col
+Vertices: 475, Edges: 1795
+
+Density: 0.01594492560515212
+DSATUR completed, SAT Starting
+Upper bound 5 calculated using largest_first in: 0.000385600003937725
+Colors used: 5, Colors considered: 5, Acc time: 0.006552300001203548, Iteration time: 0.00615529999777209
+No valid coloring found with current conflicts budget, acc time: 0.7042890000011539
+Number of colors used (DSATUR): 5
+DSATUR Coloring Time: 0.08249480000085896
+Number of colors used (SAT): 5
+SAT Coloring Time (Best solution): 0.006552300001203548
+SAT Coloring Time (Matched with DSATUR): 0.006552300001203548
+
+
+Filename: 5-FullIns_3.col
+Vertices: 154, Edges: 792
+
+Density: 0.06722689075630252
+DSATUR completed, SAT Starting
+Upper bound 8 calculated using largest_first in: 0.00015199999324977398
+Colors used: 8, Colors considered: 8, Acc time: 0.004579699998430442, Iteration time: 0.004419699995196424
+No valid coloring found with current conflicts budget, acc time: 0.11119569999573287
+Number of colors used (DSATUR): 8
+DSATUR Coloring Time: 0.009811600000830367
+Number of colors used (SAT): 8
+SAT Coloring Time (Best solution): 0.004579699998430442
+SAT Coloring Time (Matched with DSATUR): 0.004579699998430442
+
+
+Filename: 5-FullIns_4.col
+Vertices: 1085, Edges: 11395
+
+Density: 0.01937694492152295
+DSATUR completed, SAT Starting
+Upper bound 9 calculated using largest_first in: 0.0013152000028640032
+Colors used: 9, Colors considered: 9, Acc time: 0.05077680000249529, Iteration time: 0.049440700000559445
+No valid coloring found with current conflicts budget, acc time: 1.2338592000014614
+Number of colors used (DSATUR): 9
+DSATUR Coloring Time: 0.6387706999958027
+Number of colors used (SAT): 9
+SAT Coloring Time (Best solution): 0.05077680000249529
+SAT Coloring Time (Matched with DSATUR): 0.05077680000249529
+
+
+Filename: abb313GPIA.col
+Vertices: 1557, Edges: 65390
+
+Density: 0.044160283388579205
+DSATUR completed, SAT Starting
+Upper bound 15 calculated using largest_first in: 0.00411329999769805
+Colors used: 14, Colors considered: 15, Acc time: 0.2971436999941943, Iteration time: 0.2930017999970005
+Colors used: 13, Colors considered: 13, Acc time: 0.5448064999945927, Iteration time: 0.24761539999599336
+Colors used: 12, Colors considered: 12, Acc time: 0.7724065000002156, Iteration time: 0.22755180000240216
+Colors used: 11, Colors considered: 11, Acc time: 0.9816483999966295, Iteration time: 0.20919270000013057
+Colors used: 10, Colors considered: 10, Acc time: 1.1829276999997091, Iteration time: 0.20122730000002775
+Colors used: 9, Colors considered: 9, Acc time: 1.4971784999943338, Iteration time: 0.31419889999961015
+No valid coloring found with current conflicts budget, acc time: 3.9420580999940285
+Number of colors used (DSATUR): 10
+DSATUR Coloring Time: 2.8045686000041314
+Number of colors used (SAT): 9
+SAT Coloring Time (Best solution): 1.4971784999943338
+SAT Coloring Time (Matched with DSATUR): 1.1829276999997091
+
+
+Filename: anna.col
+Vertices: 138, Edges: 986
+
+Density: 0.05215275573891886
+DSATUR completed, SAT Starting
+Upper bound 11 calculated using largest_first in: 0.00012620000052265823
+Colors used: 11, Colors considered: 11, Acc time: 0.005198599996219855, Iteration time: 0.0050638999964576215
+No valid coloring found with current conflicts budget, acc time: 0.4465533999973559
+Number of colors used (DSATUR): 11
+DSATUR Coloring Time: 0.0077272999988053925
+Number of colors used (SAT): 11
+SAT Coloring Time (Best solution): 0.005198599996219855
+SAT Coloring Time (Matched with DSATUR): 0.005198599996219855
+
+
+Filename: ash331GPIA.col
+Vertices: 662, Edges: 4185
+
+Density: 0.019109561179390378
+DSATUR completed, SAT Starting
+Upper bound 10 calculated using largest_first in: 0.0006936999998288229
+Colors used: 10, Colors considered: 10, Acc time: 0.028088500002922956, Iteration time: 0.027377799997339025
+Colors used: 9, Colors considered: 9, Acc time: 0.051158300004317425, Iteration time: 0.023034000005281996
+Colors used: 8, Colors considered: 8, Acc time: 0.07069590000173775, Iteration time: 0.0194986999995308
+Colors used: 7, Colors considered: 7, Acc time: 0.08727310000540456, Iteration time: 0.016541199998755474
+Colors used: 6, Colors considered: 6, Acc time: 0.10088120000000345, Iteration time: 0.013574600001447834
+Colors used: 5, Colors considered: 5, Acc time: 0.11227309999958379, Iteration time: 0.011362700002791826
+Colors used: 4, Colors considered: 4, Acc time: 0.12123490000521997, Iteration time: 0.008935500001825858
+No valid coloring found with current conflicts budget, acc time: 0.12759860000369372
+Number of colors used (DSATUR): 6
+DSATUR Coloring Time: 0.1889934999999241
+Number of colors used (SAT): 4
+SAT Coloring Time (Best solution): 0.12123490000521997
+SAT Coloring Time (Matched with DSATUR): 0.10088120000000345
+
+
+Filename: ash608GPIA.col
+Vertices: 1216, Edges: 7844
+
+Density: 0.010618366904916613
+DSATUR completed, SAT Starting
+Upper bound 8 calculated using largest_first in: 0.0014492999980575405
+Colors used: 8, Colors considered: 8, Acc time: 0.03781470000103582, Iteration time: 0.036334999997052364
+Colors used: 7, Colors considered: 7, Acc time: 0.06852619999699527, Iteration time: 0.030668599996715784
+Colors used: 6, Colors considered: 6, Acc time: 0.09432039999956032, Iteration time: 0.02575490000162972
+Colors used: 5, Colors considered: 5, Acc time: 0.11527750000095693, Iteration time: 0.020925599994370714
+Colors used: 4, Colors considered: 4, Acc time: 0.1320183999996516, Iteration time: 0.016709499999706168
+No valid coloring found with current conflicts budget, acc time: 0.18822090000321623
+Number of colors used (DSATUR): 5
+DSATUR Coloring Time: 0.6451099999976577
+Number of colors used (SAT): 4
+SAT Coloring Time (Best solution): 0.1320183999996516
+SAT Coloring Time (Matched with DSATUR): 0.11527750000095693
+
+
+Filename: ash958GPIA.col
+Vertices: 1916, Edges: 12506
+
+Density: 0.006816856266045995
+DSATUR completed, SAT Starting
+Upper bound 10 calculated using largest_first in: 0.002122500001860317
+Colors used: 10, Colors considered: 10, Acc time: 0.08576210000319406, Iteration time: 0.08360940000420669
+Colors used: 9, Colors considered: 9, Acc time: 0.15341089999856194, Iteration time: 0.06759159999637632
+Colors used: 7, Colors considered: 8, Acc time: 0.21058590000029653, Iteration time: 0.05712310000672005
+Colors used: 6, Colors considered: 6, Acc time: 0.2535594000000856, Iteration time: 0.042916299993521534
+Colors used: 5, Colors considered: 5, Acc time: 0.28772610000305576, Iteration time: 0.03411249999771826
+Colors used: 4, Colors considered: 4, Acc time: 0.31632649999664864, Iteration time: 0.02854970000043977
+No valid coloring found with current conflicts budget, acc time: 0.33513050000328803
+Number of colors used (DSATUR): 6
+DSATUR Coloring Time: 1.6142482000068412
+Number of colors used (SAT): 4
+SAT Coloring Time (Best solution): 0.31632649999664864
+SAT Coloring Time (Matched with DSATUR): 0.2535594000000856
+
+
+Filename: david.col
+Vertices: 87, Edges: 812
+
+Density: 0.10852713178294573
+DSATUR completed, SAT Starting
+Upper bound 11 calculated using largest_first in: 9.670000144978985e-05
+Colors used: 11, Colors considered: 11, Acc time: 0.0036395999995875172, Iteration time: 0.0035320999959367327
+No valid coloring found with current conflicts budget, acc time: 0.40392830000200775
+Number of colors used (DSATUR): 11
+DSATUR Coloring Time: 0.0034157999980379827
+Number of colors used (SAT): 11
+SAT Coloring Time (Best solution): 0.0036395999995875172
+SAT Coloring Time (Matched with DSATUR): 0.0036395999995875172
+
+
+Filename: DSJC1000.1.col
+Vertices: 1000, Edges: 49629
+
+Density: 0.09935735735735736
+DSATUR completed, SAT Starting
+Upper bound 29 calculated using largest_first in: 0.003904900004272349
+Colors used: 29, Colors considered: 29, Acc time: 0.5810046999977203, Iteration time: 0.577074699998775
+Colors used: 28, Colors considered: 28, Acc time: 1.1180051999981515, Iteration time: 0.5369508000003407
+Colors used: 27, Colors considered: 27, Acc time: 1.6355227000021841, Iteration time: 0.5174640000041109
+Colors used: 26, Colors considered: 26, Acc time: 2.135413800002425, Iteration time: 0.49984199999744305
+Colors used: 25, Colors considered: 25, Acc time: 2.686296799998672, Iteration time: 0.5508313000027556
+No valid coloring found with current conflicts budget, acc time: 12.762353400001302
+Number of colors used (DSATUR): 27
+DSATUR Coloring Time: 1.6000418000039645
+Number of colors used (SAT): 25
+SAT Coloring Time (Best solution): 2.686296799998672
+SAT Coloring Time (Matched with DSATUR): 1.6355227000021841
+
+
+Filename: DSJC1000.5.col
+Vertices: 1000, Edges: 249826
+
+Density: 0.5001521521521521
+DSATUR completed, SAT Starting
+Upper bound 121 calculated using largest_first in: 0.015633800001523923
+Colors used: 121, Colors considered: 121, Acc time: 14.242964500001108, Iteration time: 14.227289300004486
+Colors used: 120, Colors considered: 120, Acc time: 27.743753300004755, Iteration time: 13.500740200004657
+Colors used: 119, Colors considered: 119, Acc time: 41.36026060000586, Iteration time: 13.616413499999908
+Colors used: 118, Colors considered: 118, Acc time: 54.84694820000004, Iteration time: 13.486601399999927
+Colors used: 117, Colors considered: 117, Acc time: 68.95916660000512, Iteration time: 14.112082600004214
+Colors used: 116, Colors considered: 116, Acc time: 82.858662000006, Iteration time: 13.89932929999486
+Colors used: 115, Colors considered: 115, Acc time: 96.03114320000168, Iteration time: 13.17240870000387
+No valid coloring found with current conflicts budget, acc time: 187.5020794000011
+Number of colors used (DSATUR): 115
+DSATUR Coloring Time: 6.9373096999988775
+Number of colors used (SAT): 115
+SAT Coloring Time (Best solution): 96.03114320000168
+SAT Coloring Time (Matched with DSATUR): 96.03114320000168
+
+
+Filename: DSJC125.1.col
+Vertices: 125, Edges: 736
+
+Density: 0.09496774193548387
+DSATUR completed, SAT Starting
+Upper bound 7 calculated using largest_first in: 0.00014240000018617138
+Colors used: 7, Colors considered: 7, Acc time: 0.004049999995913822, Iteration time: 0.0038981999969109893
+Colors used: 6, Colors considered: 6, Acc time: 0.007100899994838983, Iteration time: 0.0030333999966387637
+Colors used: 5, Colors considered: 5, Acc time: 0.026069499996083323, Iteration time: 0.018953099999635015
+No valid coloring found with current conflicts budget, acc time: 0.02840439999999944
+Number of colors used (DSATUR): 6
+DSATUR Coloring Time: 0.0069306999939726666
+Number of colors used (SAT): 5
+SAT Coloring Time (Best solution): 0.026069499996083323
+SAT Coloring Time (Matched with DSATUR): 0.007100899994838983
+
+
+Filename: DSJC125.5.col
+Vertices: 125, Edges: 3891
+
+Density: 0.5020645161290322
+DSATUR completed, SAT Starting
+Upper bound 23 calculated using largest_first in: 0.0003419999993639067
+Colors used: 23, Colors considered: 23, Acc time: 0.042672900002799, Iteration time: 0.042316299994126894
+Colors used: 22, Colors considered: 22, Acc time: 0.09144499999820255, Iteration time: 0.04874089999793796
+Colors used: 21, Colors considered: 21, Acc time: 0.1328228999991552, Iteration time: 0.0413464999946882
+Colors used: 20, Colors considered: 20, Acc time: 0.25201730000117095, Iteration time: 0.11916439999913564
+Colors used: 19, Colors considered: 19, Acc time: 0.47890300000290154, Iteration time: 0.22685479999927338
+No valid coloring found with current conflicts budget, acc time: 2.525101600003836
+Number of colors used (DSATUR): 22
+DSATUR Coloring Time: 0.016811599998618476
+Number of colors used (SAT): 19
+SAT Coloring Time (Best solution): 0.47890300000290154
+SAT Coloring Time (Matched with DSATUR): 0.09144499999820255
+
+
+Filename: DSJC125.9.col
+Vertices: 125, Edges: 6961
+
+Density: 0.8981935483870968
+DSATUR completed, SAT Starting
+Upper bound 53 calculated using largest_first in: 0.000517000000400003
+Colors used: 53, Colors considered: 53, Acc time: 0.2448327000020072, Iteration time: 0.24430299999949057
+Colors used: 52, Colors considered: 52, Acc time: 0.4290350000010221, Iteration time: 0.1841688000058639
+Colors used: 51, Colors considered: 51, Acc time: 0.6119220000036876, Iteration time: 0.18285240000113845
+Colors used: 50, Colors considered: 50, Acc time: 0.8275372999996762, Iteration time: 0.21557960000063758
+Colors used: 49, Colors considered: 49, Acc time: 1.0612839000023087, Iteration time: 0.2337097999989055
+Colors used: 48, Colors considered: 48, Acc time: 1.2862193999972078, Iteration time: 0.2249004999976023
+Colors used: 47, Colors considered: 47, Acc time: 1.5132894999987911, Iteration time: 0.22703670000191778
+No valid coloring found with current conflicts budget, acc time: 4.279032200000074
+Number of colors used (DSATUR): 51
+DSATUR Coloring Time: 0.025811799998336937
+Number of colors used (SAT): 47
+SAT Coloring Time (Best solution): 1.5132894999987911
+SAT Coloring Time (Matched with DSATUR): 0.6119220000036876
+
+
+Filename: DSJC250.1.col
+Vertices: 250, Edges: 3218
+
+Density: 0.10338955823293172
+DSATUR completed, SAT Starting
+Upper bound 11 calculated using largest_first in: 0.00039149999793153256
+Colors used: 11, Colors considered: 11, Acc time: 0.01714689999789698, Iteration time: 0.01674300000013318
+Colors used: 10, Colors considered: 10, Acc time: 0.03197299999737879, Iteration time: 0.014809899999818299
+Colors used: 9, Colors considered: 9, Acc time: 0.049463199997262564, Iteration time: 0.017475100001320243
+No valid coloring found with current conflicts budget, acc time: 2.023229899998114
+Number of colors used (DSATUR): 10
+DSATUR Coloring Time: 0.03835909999907017
+Number of colors used (SAT): 9
+SAT Coloring Time (Best solution): 0.049463199997262564
+SAT Coloring Time (Matched with DSATUR): 0.03197299999737879
+
+
+Filename: DSJC250.5.col
+Vertices: 250, Edges: 15668
+
+Density: 0.5033895582329317
+DSATUR completed, SAT Starting
+Upper bound 41 calculated using largest_first in: 0.0011510000040289015
+Colors used: 41, Colors considered: 41, Acc time: 0.24562990000413265, Iteration time: 0.24446300000272458
+Colors used: 40, Colors considered: 40, Acc time: 0.5086942999987514, Iteration time: 0.2630273000031593
+Colors used: 39, Colors considered: 39, Acc time: 0.736132500001986, Iteration time: 0.22739970000111498
+Colors used: 38, Colors considered: 38, Acc time: 0.9619672000044375, Iteration time: 0.2257963000010932
+Colors used: 37, Colors considered: 37, Acc time: 1.1824789000020246, Iteration time: 0.22047179999935906
+Colors used: 36, Colors considered: 36, Acc time: 2.664025300000503, Iteration time: 1.4815079999971204
+Colors used: 35, Colors considered: 35, Acc time: 5.803770300000906, Iteration time: 3.1397106000003987
+No valid coloring found with current conflicts budget, acc time: 10.281762899998284
+Number of colors used (DSATUR): 37
+DSATUR Coloring Time: 0.11509359999763547
+Number of colors used (SAT): 35
+SAT Coloring Time (Best solution): 5.803770300000906
+SAT Coloring Time (Matched with DSATUR): 1.1824789000020246
+
+
+Filename: DSJC250.9.col
+Vertices: 250, Edges: 27897
+
+Density: 0.896289156626506
+DSATUR completed, SAT Starting
+Upper bound 93 calculated using largest_first in: 0.0018359000023338012
+Colors used: 93, Colors considered: 93, Acc time: 1.328228999998828, Iteration time: 1.3263713000051212
+Colors used: 92, Colors considered: 92, Acc time: 2.5275424999999814, Iteration time: 1.1992705000011483
+Colors used: 91, Colors considered: 91, Acc time: 3.7208555999968667, Iteration time: 1.1932710999972187
+Colors used: 90, Colors considered: 90, Acc time: 5.878887899998517, Iteration time: 2.157986499994877
+Colors used: 89, Colors considered: 89, Acc time: 7.402200199998333, Iteration time: 1.5232614999986254
+Colors used: 88, Colors considered: 88, Acc time: 10.26685649999854, Iteration time: 2.864614199999778
+No valid coloring found with current conflicts budget, acc time: 19.17929490000097
+Number of colors used (DSATUR): 92
+DSATUR Coloring Time: 0.19086070000048494
+Number of colors used (SAT): 88
+SAT Coloring Time (Best solution): 10.26685649999854
+SAT Coloring Time (Matched with DSATUR): 2.5275424999999814
+
+
+Filename: DSJC500.1.col
+Vertices: 500, Edges: 12458
+
+Density: 0.09986372745490982
+DSATUR completed, SAT Starting
+Upper bound 18 calculated using largest_first in: 0.0011873999974341132
+Colors used: 18, Colors considered: 18, Acc time: 0.09838789999776054, Iteration time: 0.09718140000040876
+Colors used: 17, Colors considered: 17, Acc time: 0.18750890000228537, Iteration time: 0.08908330000122078
+Colors used: 16, Colors considered: 16, Acc time: 0.274359099996218, Iteration time: 0.08681090000027325
+Colors used: 15, Colors considered: 15, Acc time: 0.3531153000003542, Iteration time: 0.0787181000050623
+No valid coloring found with current conflicts budget, acc time: 5.675652199999604
+Number of colors used (DSATUR): 16
+DSATUR Coloring Time: 0.22917349999625003
+Number of colors used (SAT): 15
+SAT Coloring Time (Best solution): 0.3531153000003542
+SAT Coloring Time (Matched with DSATUR): 0.274359099996218
+
+
+Filename: DSJC500.5.col
+Vertices: 500, Edges: 62624
+
+Density: 0.5019959919839679
+DSATUR completed, SAT Starting
+Upper bound 71 calculated using largest_first in: 0.004160800002864562
+Colors used: 71, Colors considered: 71, Acc time: 1.8023130000001402, Iteration time: 1.7981268000003183
+Colors used: 70, Colors considered: 70, Acc time: 3.5692153999989387, Iteration time: 1.7668446000025142
+Colors used: 69, Colors considered: 69, Acc time: 5.290735199996561, Iteration time: 1.7214607999994769
+Colors used: 68, Colors considered: 68, Acc time: 6.996653700000024, Iteration time: 1.7058604000048945
+Colors used: 67, Colors considered: 67, Acc time: 8.649454699996568, Iteration time: 1.6527433000010205
+Colors used: 66, Colors considered: 66, Acc time: 10.413171899999725, Iteration time: 1.7636526999995112
+Colors used: 65, Colors considered: 65, Acc time: 12.002009399999224, Iteration time: 1.5887738999954308
+Colors used: 64, Colors considered: 64, Acc time: 16.043781799999124, Iteration time: 4.041718000000401
+Colors used: 63, Colors considered: 63, Acc time: 23.053930299996864, Iteration time: 7.010092799995618
+No valid coloring found with current conflicts budget, acc time: 37.95904270000028
+Number of colors used (DSATUR): 65
+DSATUR Coloring Time: 0.855036699998891
+Number of colors used (SAT): 63
+SAT Coloring Time (Best solution): 23.053930299996864
+SAT Coloring Time (Matched with DSATUR): 12.002009399999224
+
+
+Filename: DSJC500.9.col
+Vertices: 500, Edges: 112437
+
+Density: 0.9012985971943888
+DSATUR completed, SAT Starting
+Upper bound 169 calculated using largest_first in: 0.007021999997959938
+Colors used: 169, Colors considered: 169, Acc time: 9.982756499994139, Iteration time: 9.975693699998374
+Colors used: 168, Colors considered: 168, Acc time: 19.71520949999831, Iteration time: 9.73238339999807
+Colors used: 167, Colors considered: 167, Acc time: 29.496425999997882, Iteration time: 9.781101400003536
+Colors used: 166, Colors considered: 166, Acc time: 39.06513160000031, Iteration time: 9.568644999999378
+Colors used: 165, Colors considered: 165, Acc time: 48.7366017999957, Iteration time: 9.671411899995292
+Colors used: 164, Colors considered: 164, Acc time: 63.59466419999808, Iteration time: 14.858011699994677
+Colors used: 163, Colors considered: 163, Acc time: 72.99776069999643, Iteration time: 9.402965199995378
+Colors used: 162, Colors considered: 162, Acc time: 89.46377109999594, Iteration time: 16.46592840000085
+Colors used: 161, Colors considered: 161, Acc time: 131.9601623999988, Iteration time: 42.496334799994656
+Colors used: 160, Colors considered: 160, Acc time: 156.24693319999642, Iteration time: 24.286707800005388
+No valid coloring found with current conflicts budget, acc time: 206.5740208999996
+Number of colors used (DSATUR): 170
+DSATUR Coloring Time: 1.4928566000016872
+Number of colors used (SAT): 160
+SAT Coloring Time (Best solution): 156.24693319999642
+SAT Coloring Time (Matched with DSATUR): 156.24693319999642
+
+
+Filename: DSJR500.1.col
+Vertices: 500, Edges: 3555
+
+Density: 0.028496993987975953
+DSATUR completed, SAT Starting
+Upper bound 13 calculated using largest_first in: 0.000618800004303921
+Colors used: 13, Colors considered: 13, Acc time: 0.03335900000092806, Iteration time: 0.032724800003052223
+Colors used: 12, Colors considered: 12, Acc time: 0.0659047000008286, Iteration time: 0.032516500003112014
+No valid coloring found with current conflicts budget, acc time: 0.5694468000001507
+Number of colors used (DSATUR): 13
+DSATUR Coloring Time: 0.11462730000494048
+Number of colors used (SAT): 12
+SAT Coloring Time (Best solution): 0.0659047000008286
+SAT Coloring Time (Matched with DSATUR): 0.03335900000092806
+
+
+Filename: DSJR500.1c.col
+Vertices: 500, Edges: 121275
+
+Density: 0.9721442885771543
+DSATUR completed, SAT Starting
+Upper bound 100 calculated using largest_first in: 0.0068142000018269755
+Colors used: 100, Colors considered: 100, Acc time: 10.256762199998775, Iteration time: 10.249900599999819
+Colors used: 99, Colors considered: 99, Acc time: 15.492421900002228, Iteration time: 5.235578199994052
+Colors used: 98, Colors considered: 98, Acc time: 20.653967099999136, Iteration time: 5.161499200003163
+Colors used: 97, Colors considered: 97, Acc time: 26.628571300003387, Iteration time: 5.974550899998576
+Colors used: 96, Colors considered: 96, Acc time: 32.61016899999959, Iteration time: 5.981550099997548
+Colors used: 95, Colors considered: 95, Acc time: 37.703926900001534, Iteration time: 5.09369439999864
+Colors used: 94, Colors considered: 94, Acc time: 43.393984700000146, Iteration time: 5.690004699994461
+Colors used: 93, Colors considered: 93, Acc time: 49.14120969999931, Iteration time: 5.747170299997379
+Colors used: 92, Colors considered: 92, Acc time: 54.71982750000461, Iteration time: 5.5785739999992074
+Colors used: 91, Colors considered: 91, Acc time: 70.85654420000355, Iteration time: 16.136662500000966
+Colors used: 90, Colors considered: 90, Acc time: 90.18175200000405, Iteration time: 19.32515749999584
+No valid coloring found with current conflicts budget, acc time: 113.652588500001
+Number of colors used (DSATUR): 90
+DSATUR Coloring Time: 1.5771099000048707
+Number of colors used (SAT): 90
+SAT Coloring Time (Best solution): 90.18175200000405
+SAT Coloring Time (Matched with DSATUR): 90.18175200000405
+
+
+Filename: DSJR500.5.col
+Vertices: 500, Edges: 58862
+
+Density: 0.47183967935871746
+DSATUR completed, SAT Starting
+Upper bound 134 calculated using largest_first in: 0.004225000004225876
+Colors used: 134, Colors considered: 134, Acc time: 7.567473200004315, Iteration time: 7.563218499999493
+Colors used: 133, Colors considered: 133, Acc time: 12.762284100004763, Iteration time: 5.1947522000045865
+Colors used: 132, Colors considered: 132, Acc time: 28.56322960000398, Iteration time: 15.800895899999887
+Colors used: 131, Colors considered: 131, Acc time: 42.59603690000222, Iteration time: 14.03275539999595
+No valid coloring found with current conflicts budget, acc time: 64.08251100000052
+Number of colors used (DSATUR): 130
+DSATUR Coloring Time: 0.925394600002619
+Number of colors used (SAT): 131
+SAT Coloring Time (Best solution): 42.59603690000222
+SAT Coloring Time (Matched with DSATUR): 42.59603690000222
+
+
+Filename: fpsol2.i.1.col
+Vertices: 496, Edges: 11654
+
+Density: 0.3233091050324585
+DSATUR completed, SAT Starting
+Upper bound 65 calculated using largest_first in: 0.0009338000018033199
+Colors used: 65, Colors considered: 65, Acc time: 0.3834545999998227, Iteration time: 0.382504200002586
+No valid coloring found with current conflicts budget, acc time: 3.6209348999982467
+Number of colors used (DSATUR): 65
+DSATUR Coloring Time: 0.11856160000024829
+Number of colors used (SAT): 65
+SAT Coloring Time (Best solution): 0.3834545999998227
+SAT Coloring Time (Matched with DSATUR): 0.3834545999998227
+
+
+Filename: fpsol2.i.2.col
+Vertices: 451, Edges: 8691
+
+Density: 0.13227706497420208
+DSATUR completed, SAT Starting
+Upper bound 30 calculated using largest_first in: 0.0008379999999306165
+Colors used: 30, Colors considered: 30, Acc time: 0.14173570000275504, Iteration time: 0.14087999999901513
+No valid coloring found with current conflicts budget, acc time: 1.8137716999990516
+Number of colors used (DSATUR): 30
+DSATUR Coloring Time: 0.1346272999944631
+Number of colors used (SAT): 30
+SAT Coloring Time (Best solution): 0.14173570000275504
+SAT Coloring Time (Matched with DSATUR): 0.14173570000275504
+
+
+Filename: fpsol2.i.3.col
+Vertices: 425, Edges: 8688
+
+Density: 0.1322314049586777
+DSATUR completed, SAT Starting
+Upper bound 30 calculated using largest_first in: 0.0008252999978139997
+Colors used: 30, Colors considered: 30, Acc time: 0.14256749999913154, Iteration time: 0.14172530000359984
+No valid coloring found with current conflicts budget, acc time: 1.8507036000009975
+Number of colors used (DSATUR): 30
+DSATUR Coloring Time: 0.1342653999963659
+Number of colors used (SAT): 30
+SAT Coloring Time (Best solution): 0.14256749999913154
+SAT Coloring Time (Matched with DSATUR): 0.14256749999913154
+
+
+Filename: games120.col
+Vertices: 120, Edges: 1276
+
+Density: 0.08935574229691877
+DSATUR completed, SAT Starting
+Upper bound 9 calculated using largest_first in: 0.00012889999925391749
+Colors used: 9, Colors considered: 9, Acc time: 0.004015999998955522, Iteration time: 0.0038799999965704046
+No valid coloring found with current conflicts budget, acc time: 0.31716720000258647
+Number of colors used (DSATUR): 9
+DSATUR Coloring Time: 0.00589870000112569
+Number of colors used (SAT): 9
+SAT Coloring Time (Best solution): 0.004015999998955522
+SAT Coloring Time (Matched with DSATUR): 0.004015999998955522
+
+
+Filename: homer.col
+Vertices: 561, Edges: 3258
+
+Density: 0.010558040054442932
+DSATUR completed, SAT Starting
+Upper bound 13 calculated using largest_first in: 0.000472399995487649
+No valid coloring found with current conflicts budget, acc time: 0.024039199997787364
+Number of colors used (DSATUR): 13
+DSATUR Coloring Time: 0.11464500000147382
+SAT solver could not find a solution with the given number of colors.
+
+
+Filename: huck.col
+Vertices: 74, Edges: 602
+
+Density: 0.1114402073306183
+DSATUR completed, SAT Starting
+Upper bound 11 calculated using largest_first in: 7.500000356230885e-05
+Colors used: 11, Colors considered: 11, Acc time: 0.0029963000051793642, Iteration time: 0.002911299998231698
+No valid coloring found with current conflicts budget, acc time: 0.36246329999994487
+Number of colors used (DSATUR): 11
+DSATUR Coloring Time: 0.002266399998916313
+Number of colors used (SAT): 11
+SAT Coloring Time (Best solution): 0.0029963000051793642
+SAT Coloring Time (Matched with DSATUR): 0.0029963000051793642
+
+
+Filename: inithx.i.1.col
+Vertices: 864, Edges: 18707
+
+Density: 0.13916724321348597
+DSATUR completed, SAT Starting
+Upper bound 54 calculated using largest_first in: 0.0016572000022279099
+Colors used: 54, Colors considered: 54, Acc time: 0.5126390000004903, Iteration time: 0.5109565999955521
+No valid coloring found with current conflicts budget, acc time: 4.913033700002416
+Number of colors used (DSATUR): 54
+DSATUR Coloring Time: 0.3877481000017724
+Number of colors used (SAT): 54
+SAT Coloring Time (Best solution): 0.5126390000004903
+SAT Coloring Time (Matched with DSATUR): 0.5126390000004903
+
+
+Filename: inithx.i.2.col
+Vertices: 645, Edges: 13979
+
+Density: 0.08995321840633708
+DSATUR completed, SAT Starting
+Upper bound 31 calculated using largest_first in: 0.001319599999987986
+Colors used: 31, Colors considered: 31, Acc time: 0.204906499995559, Iteration time: 0.20356619999802206
+No valid coloring found with current conflicts budget, acc time: 2.4380803999956697
+Number of colors used (DSATUR): 31
+DSATUR Coloring Time: 0.32974280000053113
+Number of colors used (SAT): 31
+SAT Coloring Time (Best solution): 0.204906499995559
+SAT Coloring Time (Matched with DSATUR): 0.204906499995559
+
+
+Filename: inithx.i.3.col
+Vertices: 621, Edges: 13969
+
+Density: 0.0895672636107745
+DSATUR completed, SAT Starting
+Upper bound 31 calculated using largest_first in: 0.0012850999992224388
+Colors used: 31, Colors considered: 31, Acc time: 0.21846670000377344, Iteration time: 0.21715849999600323
+No valid coloring found with current conflicts budget, acc time: 2.568265900001279
+Number of colors used (DSATUR): 31
+DSATUR Coloring Time: 0.3217290000029607
+Number of colors used (SAT): 31
+SAT Coloring Time (Best solution): 0.21846670000377344
+SAT Coloring Time (Matched with DSATUR): 0.21846670000377344
+
+
+Filename: jean.col
+Vertices: 80, Edges: 508
+
+Density: 0.08680792891319207
+DSATUR completed, SAT Starting
+Upper bound 10 calculated using largest_first in: 7.339999865507707e-05
+Colors used: 10, Colors considered: 10, Acc time: 0.0026246000052196905, Iteration time: 0.0025412999966647476
+No valid coloring found with current conflicts budget, acc time: 0.3763431000043056
+Number of colors used (DSATUR): 10
+DSATUR Coloring Time: 0.0023462999961338937
+Number of colors used (SAT): 10
+SAT Coloring Time (Best solution): 0.0026246000052196905
+SAT Coloring Time (Matched with DSATUR): 0.0026246000052196905
+
+
+Filename: le450_15a.col
+Vertices: 450, Edges: 8168
+
+Density: 0.08085127443702055
+DSATUR completed, SAT Starting
+Upper bound 18 calculated using largest_first in: 0.0008785999962128699
+Colors used: 18, Colors considered: 18, Acc time: 0.07747209999797633, Iteration time: 0.07657629999448545
+Colors used: 17, Colors considered: 17, Acc time: 0.14411319999635452, Iteration time: 0.06660260000353446
+Colors used: 16, Colors considered: 16, Acc time: 0.2069924000024912, Iteration time: 0.06284340000274824
+Colors used: 15, Colors considered: 15, Acc time: 0.5394947999957367, Iteration time: 0.33246869999857154
+No valid coloring found with current conflicts budget, acc time: 1.4000594999961322
+Number of colors used (DSATUR): 17
+DSATUR Coloring Time: 0.1651966999997967
+Number of colors used (SAT): 15
+SAT Coloring Time (Best solution): 0.5394947999957367
+SAT Coloring Time (Matched with DSATUR): 0.14411319999635452
+
+
+Filename: le450_15b.col
+Vertices: 450, Edges: 8169
+
+Density: 0.08086117297698589
+DSATUR completed, SAT Starting
+Upper bound 18 calculated using largest_first in: 0.0008694999996805564
+Colors used: 18, Colors considered: 18, Acc time: 0.07922900000266964, Iteration time: 0.07832799999596318
+Colors used: 17, Colors considered: 17, Acc time: 0.15009800000552787, Iteration time: 0.07080890000361251
+Colors used: 16, Colors considered: 16, Acc time: 0.21212180000293301, Iteration time: 0.061990499998501036
+Colors used: 15, Colors considered: 15, Acc time: 0.28926740000315476, Iteration time: 0.07710750000114786
+No valid coloring found with current conflicts budget, acc time: 1.1674711000014213
+Number of colors used (DSATUR): 17
+DSATUR Coloring Time: 0.16371429999708198
+Number of colors used (SAT): 15
+SAT Coloring Time (Best solution): 0.28926740000315476
+SAT Coloring Time (Matched with DSATUR): 0.15009800000552787
+
+
+Filename: le450_15c.col
+Vertices: 450, Edges: 16680
+
+Density: 0.16510764662212324
+DSATUR completed, SAT Starting
+Upper bound 27 calculated using largest_first in: 0.0014563999939127825
+Colors used: 27, Colors considered: 27, Acc time: 0.19059739999647718, Iteration time: 0.18911890000163112
+Colors used: 26, Colors considered: 26, Acc time: 0.39158929999393877, Iteration time: 0.20095239999500336
+Colors used: 25, Colors considered: 25, Acc time: 0.5603787999934866, Iteration time: 0.16874869999446673
+Colors used: 24, Colors considered: 24, Acc time: 0.7237060999977984, Iteration time: 0.1632884999999078
+Colors used: 23, Colors considered: 23, Acc time: 0.8846119999943767, Iteration time: 0.16086619999987306
+Colors used: 22, Colors considered: 22, Acc time: 3.050795199997083, Iteration time: 2.1661411999957636
+No valid coloring found with current conflicts budget, acc time: 8.104049999994459
+Number of colors used (DSATUR): 23
+DSATUR Coloring Time: 0.2701755000016419
+Number of colors used (SAT): 22
+SAT Coloring Time (Best solution): 3.050795199997083
+SAT Coloring Time (Matched with DSATUR): 0.8846119999943767
+
+
+Filename: le450_15d.col
+Vertices: 450, Edges: 16750
+
+Density: 0.1658005444196981
+DSATUR completed, SAT Starting
+Upper bound 27 calculated using largest_first in: 0.001527100001112558
+Colors used: 27, Colors considered: 27, Acc time: 0.21728930000244873, Iteration time: 0.21573770000395598
+Colors used: 26, Colors considered: 26, Acc time: 0.39288549999764655, Iteration time: 0.17555580000043847
+Colors used: 25, Colors considered: 25, Acc time: 0.5654385000016191, Iteration time: 0.17250680000142893
+Colors used: 24, Colors considered: 24, Acc time: 0.7258892000027117, Iteration time: 0.16041109999787295
+Colors used: 23, Colors considered: 23, Acc time: 0.8812118999994709, Iteration time: 0.15527750000183005
+Colors used: 22, Colors considered: 22, Acc time: 2.845469599997159, Iteration time: 1.964215099993453
+No valid coloring found with current conflicts budget, acc time: 8.104967999999644
+Number of colors used (DSATUR): 24
+DSATUR Coloring Time: 0.2640065000014147
+Number of colors used (SAT): 22
+SAT Coloring Time (Best solution): 2.845469599997159
+SAT Coloring Time (Matched with DSATUR): 0.7258892000027117
+
+
+Filename: le450_25a.col
+Vertices: 450, Edges: 8260
+
+Density: 0.08176194011383321
+DSATUR completed, SAT Starting
+Upper bound 25 calculated using largest_first in: 0.0009066999991773628
+Colors used: 25, Colors considered: 25, Acc time: 0.14288420000229962, Iteration time: 0.14195910000125878
+No valid coloring found with current conflicts budget, acc time: 1.668032100002165
+Number of colors used (DSATUR): 25
+DSATUR Coloring Time: 0.1744808000003104
+Number of colors used (SAT): 25
+SAT Coloring Time (Best solution): 0.14288420000229962
+SAT Coloring Time (Matched with DSATUR): 0.14288420000229962
+
+
+Filename: le450_25b.col
+Vertices: 450, Edges: 8263
+
+Density: 0.08179163573372927
+DSATUR completed, SAT Starting
+Upper bound 25 calculated using largest_first in: 0.0009049000000231899
+Colors used: 25, Colors considered: 25, Acc time: 0.12511199999426026, Iteration time: 0.12418590000015683
+No valid coloring found with current conflicts budget, acc time: 1.5899481999949785
+Number of colors used (DSATUR): 25
+DSATUR Coloring Time: 0.17108429999643704
+Number of colors used (SAT): 25
+SAT Coloring Time (Best solution): 0.12511199999426026
+SAT Coloring Time (Matched with DSATUR): 0.12511199999426026
+
+
+Filename: le450_25c.col
+Vertices: 450, Edges: 17343
+
+Density: 0.17167037861915369
+DSATUR completed, SAT Starting
+Upper bound 30 calculated using largest_first in: 0.00151940000068862
+Colors used: 30, Colors considered: 30, Acc time: 0.2562037999960012, Iteration time: 0.2546638999992865
+Colors used: 29, Colors considered: 29, Acc time: 0.4623779999965336, Iteration time: 0.20612390000314917
+Colors used: 28, Colors considered: 28, Acc time: 0.6862285999959568, Iteration time: 0.22378879999450874
+Colors used: 27, Colors considered: 27, Acc time: 0.9076249999998254, Iteration time: 0.22132760000386043
+Colors used: 26, Colors considered: 26, Acc time: 5.289206999994349, Iteration time: 4.381536799999594
+No valid coloring found with current conflicts budget, acc time: 9.11174839999876
+Number of colors used (DSATUR): 29
+DSATUR Coloring Time: 0.283636000000115
+Number of colors used (SAT): 26
+SAT Coloring Time (Best solution): 5.289206999994349
+SAT Coloring Time (Matched with DSATUR): 0.4623779999965336
+
+
+Filename: le450_25d.col
+Vertices: 450, Edges: 17425
+
+Density: 0.1724820588963128
+DSATUR completed, SAT Starting
+Upper bound 30 calculated using largest_first in: 0.00151009999535745
+Colors used: 30, Colors considered: 30, Acc time: 0.2580022999973153, Iteration time: 0.25647160000517033
+Colors used: 29, Colors considered: 29, Acc time: 0.4900975999989896, Iteration time: 0.23205569999845466
+Colors used: 28, Colors considered: 28, Acc time: 0.6911198999951012, Iteration time: 0.20098099999449914
+Colors used: 27, Colors considered: 27, Acc time: 0.9157820999971591, Iteration time: 0.22461169999587582
+No valid coloring found with current conflicts budget, acc time: 6.196570299995074
+Number of colors used (DSATUR): 28
+DSATUR Coloring Time: 0.2843159000040032
+Number of colors used (SAT): 27
+SAT Coloring Time (Best solution): 0.9157820999971591
+SAT Coloring Time (Matched with DSATUR): 0.6911198999951012
+
+
+Filename: le450_5a.col
+Vertices: 450, Edges: 5714
+
+Density: 0.056560257362039096
+DSATUR completed, SAT Starting
+Upper bound 11 calculated using largest_first in: 0.0007039999982225709
+Colors used: 11, Colors considered: 11, Acc time: 0.03141450000111945, Iteration time: 0.030697599999257363
+Colors used: 10, Colors considered: 10, Acc time: 0.058143499998550396, Iteration time: 0.026703299998189323
+Colors used: 9, Colors considered: 9, Acc time: 0.08764440000231843, Iteration time: 0.029474800001480617
+Colors used: 8, Colors considered: 8, Acc time: 0.502639199999976, Iteration time: 0.41495900000154506
+No valid coloring found with current conflicts budget, acc time: 2.830789799998456
+Number of colors used (DSATUR): 10
+DSATUR Coloring Time: 0.12325679999776185
+Number of colors used (SAT): 8
+SAT Coloring Time (Best solution): 0.502639199999976
+SAT Coloring Time (Matched with DSATUR): 0.058143499998550396
+
+
+Filename: le450_5b.col
+Vertices: 450, Edges: 5734
+
+Density: 0.0567582281613462
+DSATUR completed, SAT Starting
+Upper bound 12 calculated using largest_first in: 0.0007012999994913116
+Colors used: 12, Colors considered: 12, Acc time: 0.034157000001869164, Iteration time: 0.033443000000261236
+Colors used: 11, Colors considered: 11, Acc time: 0.06522770000447053, Iteration time: 0.03104170000005979
+Colors used: 10, Colors considered: 10, Acc time: 0.09368280000489904, Iteration time: 0.028422499999578577
+Colors used: 9, Colors considered: 9, Acc time: 0.12125680000463035, Iteration time: 0.02754139999888139
+Colors used: 8, Colors considered: 8, Acc time: 0.15996499999891967, Iteration time: 0.03867500000342261
+Colors used: 7, Colors considered: 7, Acc time: 2.27814980000403, Iteration time: 2.1181499999947846
+Colors used: 6, Colors considered: 6, Acc time: 4.011269000002358, Iteration time: 1.7330838000052609
+Colors used: 5, Colors considered: 5, Acc time: 4.13779500000237, Iteration time: 0.1264928999953554
+No valid coloring found with current conflicts budget, acc time: 4.1476425000000745
+Number of colors used (DSATUR): 10
+DSATUR Coloring Time: 0.12401649999810616
+Number of colors used (SAT): 5
+SAT Coloring Time (Best solution): 4.13779500000237
+SAT Coloring Time (Matched with DSATUR): 0.09368280000489904
+
+
+Filename: le450_5c.col
+Vertices: 450, Edges: 9803
+
+Density: 0.09703538728037614
+DSATUR completed, SAT Starting
+Upper bound 12 calculated using largest_first in: 0.0009391999992658384
+Colors used: 12, Colors considered: 12, Acc time: 0.04977309999958379, Iteration time: 0.04881609999574721
+Colors used: 11, Colors considered: 11, Acc time: 0.11106609999842476, Iteration time: 0.061260099995706696
+Colors used: 10, Colors considered: 10, Acc time: 0.16238600000360748, Iteration time: 0.0512827999991714
+Colors used: 9, Colors considered: 9, Acc time: 0.2008018999986234, Iteration time: 0.038381300000764895
+Colors used: 8, Colors considered: 8, Acc time: 0.23272170000564074, Iteration time: 0.03188889999728417
+Colors used: 7, Colors considered: 7, Acc time: 0.37834200000361307, Iteration time: 0.145587400002114
+Colors used: 6, Colors considered: 6, Acc time: 0.42640590000519296, Iteration time: 0.04803109999920707
+Colors used: 5, Colors considered: 5, Acc time: 0.44847090000257595, Iteration time: 0.022030800006177742
+No valid coloring found with current conflicts budget, acc time: 0.46441649999906076
+Number of colors used (DSATUR): 11
+DSATUR Coloring Time: 0.1713268000021344
+Number of colors used (SAT): 5
+SAT Coloring Time (Best solution): 0.44847090000257595
+SAT Coloring Time (Matched with DSATUR): 0.11106609999842476
+
+
+Filename: le450_5d.col
+Vertices: 450, Edges: 9757
+
+Density: 0.0965800544419698
+DSATUR completed, SAT Starting
+Upper bound 14 calculated using largest_first in: 0.000931399998080451
+Colors used: 14, Colors considered: 14, Acc time: 0.05829780000203755, Iteration time: 0.057350000002770685
+Colors used: 13, Colors considered: 13, Acc time: 0.11162250000052154, Iteration time: 0.053282900000340305
+Colors used: 12, Colors considered: 12, Acc time: 0.21670150000136346, Iteration time: 0.10504280000168364
+Colors used: 11, Colors considered: 11, Acc time: 0.3197459000002709, Iteration time: 0.10300940000161063
+Colors used: 10, Colors considered: 10, Acc time: 1.110236000000441, Iteration time: 0.7904559000016889
+Colors used: 9, Colors considered: 9, Acc time: 1.1994330999950762, Iteration time: 0.08916329999919981
+Colors used: 8, Colors considered: 8, Acc time: 1.3006781000003684, Iteration time: 0.10120549999555806
+Colors used: 7, Colors considered: 7, Acc time: 1.3606163000004017, Iteration time: 0.05990140000358224
+Colors used: 6, Colors considered: 6, Acc time: 1.3975520999956643, Iteration time: 0.036898199999995995
+Colors used: 5, Colors considered: 5, Acc time: 1.4237842000002274, Iteration time: 0.026200000000244472
+No valid coloring found with current conflicts budget, acc time: 1.4386870999951498
+Number of colors used (DSATUR): 12
+DSATUR Coloring Time: 0.16818610000336776
+Number of colors used (SAT): 5
+SAT Coloring Time (Best solution): 1.4237842000002274
+SAT Coloring Time (Matched with DSATUR): 0.21670150000136346
+
+
+Filename: miles1000.col
+Vertices: 128, Edges: 6432
+
+Density: 0.3956692913385827
+DSATUR completed, SAT Starting
+Upper bound 43 calculated using largest_first in: 0.00031670000316808
+Colors used: 43, Colors considered: 43, Acc time: 0.09383769999840297, Iteration time: 0.09350819999963278
+Colors used: 42, Colors considered: 42, Acc time: 0.31399919999967096, Iteration time: 0.22012530000210973
+No valid coloring found with current conflicts budget, acc time: 1.6851901999980328
+Number of colors used (DSATUR): 42
+DSATUR Coloring Time: 0.016963800000667106
+Number of colors used (SAT): 42
+SAT Coloring Time (Best solution): 0.31399919999967096
+SAT Coloring Time (Matched with DSATUR): 0.31399919999967096
+
+
+Filename: miles1500.col
+Vertices: 128, Edges: 10396
+
+Density: 0.6395177165354331
+DSATUR completed, SAT Starting
+Upper bound 73 calculated using largest_first in: 0.00042839999514399096
+Colors used: 73, Colors considered: 73, Acc time: 0.20303399999829708, Iteration time: 0.2025909000003594
+No valid coloring found with current conflicts budget, acc time: 2.5327327999984846
+Number of colors used (DSATUR): 73
+DSATUR Coloring Time: 0.023182400000223424
+Number of colors used (SAT): 73
+SAT Coloring Time (Best solution): 0.20303399999829708
+SAT Coloring Time (Matched with DSATUR): 0.20303399999829708
+
+
+Filename: miles250.col
+Vertices: 128, Edges: 774
+
+Density: 0.049935483870967745
+DSATUR completed, SAT Starting
+Upper bound 8 calculated using largest_first in: 0.000115999995614402
+Colors used: 8, Colors considered: 8, Acc time: 0.0029701999956159852, Iteration time: 0.0028466000003390945
+No valid coloring found with current conflicts budget, acc time: 0.05835490000026766
+Number of colors used (DSATUR): 8
+DSATUR Coloring Time: 0.005739899999753106
+Number of colors used (SAT): 8
+SAT Coloring Time (Best solution): 0.0029701999956159852
+SAT Coloring Time (Matched with DSATUR): 0.0029701999956159852
+
+
+Filename: miles500.col
+Vertices: 128, Edges: 2340
+
+Density: 0.14394685039370078
+DSATUR completed, SAT Starting
+Upper bound 20 calculated using largest_first in: 0.00017300000035902485
+Colors used: 20, Colors considered: 20, Acc time: 0.015365799998107832, Iteration time: 0.01518420000502374
+No valid coloring found with current conflicts budget, acc time: 0.7224994999996852
+Number of colors used (DSATUR): 20
+DSATUR Coloring Time: 0.009255400000256486
+Number of colors used (SAT): 20
+SAT Coloring Time (Best solution): 0.015365799998107832
+SAT Coloring Time (Matched with DSATUR): 0.015365799998107832
+
+
+Filename: miles750.col
+Vertices: 128, Edges: 4226
+
+Density: 0.2599655511811024
+DSATUR completed, SAT Starting
+Upper bound 32 calculated using largest_first in: 0.0002358999990974553
+Colors used: 32, Colors considered: 32, Acc time: 0.03870670000469545, Iteration time: 0.038459299998066854
+Colors used: 31, Colors considered: 31, Acc time: 0.191322400001809, Iteration time: 0.15258660000108648
+No valid coloring found with current conflicts budget, acc time: 1.1677650999990874
+Number of colors used (DSATUR): 31
+DSATUR Coloring Time: 0.012857500005338807
+Number of colors used (SAT): 31
+SAT Coloring Time (Best solution): 0.191322400001809
+SAT Coloring Time (Matched with DSATUR): 0.191322400001809
+
+
+Filename: mug100_1.col
+Vertices: 100, Edges: 166
+
+Density: 0.033535353535353536
+DSATUR completed, SAT Starting
+Upper bound 4 calculated using largest_first in: 7.860000187065452e-05
+Colors used: 4, Colors considered: 4, Acc time: 0.0010362000029999763, Iteration time: 0.0009488999930908903
+No valid coloring found with current conflicts budget, acc time: 0.0027373999982955866
+Number of colors used (DSATUR): 4
+DSATUR Coloring Time: 0.0030846999943605624
+Number of colors used (SAT): 4
+SAT Coloring Time (Best solution): 0.0010362000029999763
+SAT Coloring Time (Matched with DSATUR): 0.0010362000029999763
+
+
+Filename: mug100_25.col
+Vertices: 100, Edges: 166
+
+Density: 0.033535353535353536
+DSATUR completed, SAT Starting
+Upper bound 4 calculated using largest_first in: 7.439999899361283e-05
+Colors used: 4, Colors considered: 4, Acc time: 0.0010018999964813702, Iteration time: 0.0009207999974023551
+No valid coloring found with current conflicts budget, acc time: 0.0026398999980301596
+Number of colors used (DSATUR): 4
+DSATUR Coloring Time: 0.0030760000008740462
+Number of colors used (SAT): 4
+SAT Coloring Time (Best solution): 0.0010018999964813702
+SAT Coloring Time (Matched with DSATUR): 0.0010018999964813702
+
+
+Filename: mug88_1.col
+Vertices: 88, Edges: 146
+
+Density: 0.03814002089864159
+DSATUR completed, SAT Starting
+Upper bound 4 calculated using largest_first in: 6.72999958624132e-05
+Colors used: 4, Colors considered: 4, Acc time: 0.0009214999954565428, Iteration time: 0.0008474999995087273
+No valid coloring found with current conflicts budget, acc time: 0.0020120999979553744
+Number of colors used (DSATUR): 4
+DSATUR Coloring Time: 0.002401300000201445
+Number of colors used (SAT): 4
+SAT Coloring Time (Best solution): 0.0009214999954565428
+SAT Coloring Time (Matched with DSATUR): 0.0009214999954565428
+
+
+Filename: mug88_25.col
+Vertices: 88, Edges: 146
+
+Density: 0.03814002089864159
+DSATUR completed, SAT Starting
+Upper bound 4 calculated using largest_first in: 6.690000009257346e-05
+Colors used: 4, Colors considered: 4, Acc time: 0.0009117000008700415, Iteration time: 0.0008376000041607767
+No valid coloring found with current conflicts budget, acc time: 0.0021919999999227002
+Number of colors used (DSATUR): 4
+DSATUR Coloring Time: 0.002439399999275338
+Number of colors used (SAT): 4
+SAT Coloring Time (Best solution): 0.0009117000008700415
+SAT Coloring Time (Matched with DSATUR): 0.0009117000008700415
+
+
+Filename: mulsol.i.1.col
+Vertices: 197, Edges: 3925
+
+Density: 0.41521210197820796
+DSATUR completed, SAT Starting
+Upper bound 49 calculated using largest_first in: 0.00036700000055134296
+Colors used: 49, Colors considered: 49, Acc time: 0.11078769999585347, Iteration time: 0.11040819999470841
+No valid coloring found with current conflicts budget, acc time: 1.6751020999945467
+Number of colors used (DSATUR): 49
+DSATUR Coloring Time: 0.020469800001592375
+Number of colors used (SAT): 49
+SAT Coloring Time (Best solution): 0.11078769999585347
+SAT Coloring Time (Matched with DSATUR): 0.11078769999585347
+
+
+Filename: mulsol.i.2.col
+Vertices: 188, Edges: 3885
+
+Density: 0.2611238069633015
+DSATUR completed, SAT Starting
+Upper bound 31 calculated using largest_first in: 0.0003728000010596588
+Colors used: 31, Colors considered: 31, Acc time: 0.05878300000040326, Iteration time: 0.05839770000602584
+No valid coloring found with current conflicts budget, acc time: 1.1467073000021628
+Number of colors used (DSATUR): 31
+DSATUR Coloring Time: 0.027381799998693168
+Number of colors used (SAT): 31
+SAT Coloring Time (Best solution): 0.05878300000040326
+SAT Coloring Time (Matched with DSATUR): 0.05878300000040326
+
+
+Filename: mulsol.i.3.col
+Vertices: 184, Edges: 3916
+
+Density: 0.26018204770447145
+DSATUR completed, SAT Starting
+Upper bound 31 calculated using largest_first in: 0.0003819999983534217
+Colors used: 31, Colors considered: 31, Acc time: 0.05881709999812301, Iteration time: 0.05842290000146022
+No valid coloring found with current conflicts budget, acc time: 1.1714827999967383
+Number of colors used (DSATUR): 31
+DSATUR Coloring Time: 0.027889800003322307
+Number of colors used (SAT): 31
+SAT Coloring Time (Best solution): 0.05881709999812301
+SAT Coloring Time (Matched with DSATUR): 0.05881709999812301
+
+
+Filename: mulsol.i.4.col
+Vertices: 185, Edges: 3946
+
+Density: 0.25917898193760264
+DSATUR completed, SAT Starting
+Upper bound 31 calculated using largest_first in: 0.0003832000002148561
+Colors used: 31, Colors considered: 31, Acc time: 0.05976270000246586, Iteration time: 0.059368199996242765
+No valid coloring found with current conflicts budget, acc time: 1.176805199997034
+Number of colors used (DSATUR): 31
+DSATUR Coloring Time: 0.02802469999733148
+Number of colors used (SAT): 31
+SAT Coloring Time (Best solution): 0.05976270000246586
+SAT Coloring Time (Matched with DSATUR): 0.05976270000246586
+
+
+Filename: mulsol.i.5.col
+Vertices: 186, Edges: 3973
+
+Density: 0.257987012987013
+DSATUR completed, SAT Starting
+Upper bound 31 calculated using largest_first in: 0.00038279999716905877
+Colors used: 31, Colors considered: 31, Acc time: 0.05973769999400247, Iteration time: 0.05934349999733968
+No valid coloring found with current conflicts budget, acc time: 1.1611551999958465
+Number of colors used (DSATUR): 31
+DSATUR Coloring Time: 0.02845060000254307
+Number of colors used (SAT): 31
+SAT Coloring Time (Best solution): 0.05973769999400247
+SAT Coloring Time (Matched with DSATUR): 0.05973769999400247
+
+
+Filename: myciel3.col
+Vertices: 11, Edges: 20
+
+Density: 0.36363636363636365
+DSATUR completed, SAT Starting
+Upper bound 4 calculated using largest_first in: 1.2700002116616815e-05
+Colors used: 4, Colors considered: 4, Acc time: 0.0003789999973378144, Iteration time: 0.0003588999970816076
+No valid coloring found with current conflicts budget, acc time: 0.0007329000000027008
+Number of colors used (DSATUR): 4
+DSATUR Coloring Time: 7.090000144671649e-05
+Number of colors used (SAT): 4
+SAT Coloring Time (Best solution): 0.0003789999973378144
+SAT Coloring Time (Matched with DSATUR): 0.0003789999973378144
+
+
+Filename: myciel4.col
+Vertices: 23, Edges: 71
+
+Density: 0.28063241106719367
+DSATUR completed, SAT Starting
+Upper bound 5 calculated using largest_first in: 2.390000008745119e-05
+Colors used: 5, Colors considered: 5, Acc time: 0.0005407999997260049, Iteration time: 0.0005104999945615418
+No valid coloring found with current conflicts budget, acc time: 0.009467600000789389
+Number of colors used (DSATUR): 5
+DSATUR Coloring Time: 0.00023430000146618113
+Number of colors used (SAT): 5
+SAT Coloring Time (Best solution): 0.0005407999997260049
+SAT Coloring Time (Matched with DSATUR): 0.0005407999997260049
+
+
+Filename: myciel5.col
+Vertices: 47, Edges: 236
+
+Density: 0.2183163737280296
+DSATUR completed, SAT Starting
+Upper bound 6 calculated using largest_first in: 5.009999586036429e-05
+Colors used: 6, Colors considered: 6, Acc time: 0.0011450999954831786, Iteration time: 0.0010884999937843531
+No valid coloring found with current conflicts budget, acc time: 0.432488899998134
+Number of colors used (DSATUR): 6
+DSATUR Coloring Time: 0.0010018999964813702
+Number of colors used (SAT): 6
+SAT Coloring Time (Best solution): 0.0011450999954831786
+SAT Coloring Time (Matched with DSATUR): 0.0011450999954831786
+
+
+Filename: myciel6.col
+Vertices: 95, Edges: 755
+
+Density: 0.1690929451287794
+DSATUR completed, SAT Starting
+Upper bound 7 calculated using largest_first in: 0.0001205000007757917
+Colors used: 7, Colors considered: 7, Acc time: 0.0033731000003172085, Iteration time: 0.003245399995648768
+No valid coloring found with current conflicts budget, acc time: 0.5480379000000539
+Number of colors used (DSATUR): 7
+DSATUR Coloring Time: 0.004651100003684405
+Number of colors used (SAT): 7
+SAT Coloring Time (Best solution): 0.0033731000003172085
+SAT Coloring Time (Matched with DSATUR): 0.0033731000003172085
+
+
+Filename: myciel7.col
+Vertices: 191, Edges: 2360
+
+Density: 0.13006337834114082
+DSATUR completed, SAT Starting
+Upper bound 8 calculated using largest_first in: 0.0002843000038410537
+Colors used: 8, Colors considered: 8, Acc time: 0.008612899997388013, Iteration time: 0.008319199994730297
+No valid coloring found with current conflicts budget, acc time: 0.8166086999990512
+Number of colors used (DSATUR): 8
+DSATUR Coloring Time: 0.024060199997620657
+Number of colors used (SAT): 8
+SAT Coloring Time (Best solution): 0.008612899997388013
+SAT Coloring Time (Matched with DSATUR): 0.008612899997388013
+
+
+Filename: qg.order30.col
+Vertices: 900, Edges: 26100
+
+Density: 0.06451612903225806
+DSATUR completed, SAT Starting
+Upper bound 32 calculated using largest_first in: 0.0020457999999052845
+Colors used: 32, Colors considered: 32, Acc time: 0.38954540000122506, Iteration time: 0.3874783999999636
+Colors used: 31, Colors considered: 31, Acc time: 0.7622683000008692, Iteration time: 0.37267530000099214
+Colors used: 30, Colors considered: 30, Acc time: 1.1598640000011073, Iteration time: 0.39754240000183927
+No valid coloring found with current conflicts budget, acc time: 5.014813000001595
+Number of colors used (DSATUR): 36
+DSATUR Coloring Time: 0.8086819000018295
+Number of colors used (SAT): 30
+SAT Coloring Time (Best solution): 1.1598640000011073
+SAT Coloring Time (Matched with DSATUR): 1.1598640000011073
+
+
+Filename: qg.order40.col
+Vertices: 1600, Edges: 62400
+
+Density: 0.04878048780487805
+DSATUR completed, SAT Starting
+Upper bound 64 calculated using largest_first in: 0.004596099999616854
+Colors used: 64, Colors considered: 64, Acc time: 2.371982799995749, Iteration time: 2.367355900001712
+Colors used: 63, Colors considered: 63, Acc time: 4.6575921999974526, Iteration time: 2.2855256000038935
+Colors used: 62, Colors considered: 62, Acc time: 6.889981200001785, Iteration time: 2.2323009999963688
+Colors used: 61, Colors considered: 61, Acc time: 9.057154699999955, Iteration time: 2.1670816999976523
+Colors used: 60, Colors considered: 60, Acc time: 11.176372800000536, Iteration time: 2.119120800001838
+Colors used: 59, Colors considered: 59, Acc time: 13.244850499999302, Iteration time: 2.0684125000043423
+Colors used: 58, Colors considered: 58, Acc time: 15.264375099999597, Iteration time: 2.019432599998254
+Colors used: 57, Colors considered: 57, Acc time: 17.22258249999868, Iteration time: 1.958145600001444
+Colors used: 56, Colors considered: 56, Acc time: 19.361404800001765, Iteration time: 2.1387229999963893
+Colors used: 55, Colors considered: 55, Acc time: 21.29122549999738, Iteration time: 1.9297395999965374
+Colors used: 54, Colors considered: 54, Acc time: 23.097642000000633, Iteration time: 1.806322000004002
+Colors used: 53, Colors considered: 53, Acc time: 24.854639600001974, Iteration time: 1.7569393999947351
+Colors used: 52, Colors considered: 52, Acc time: 26.57710280000174, Iteration time: 1.7223817999984021
+Colors used: 51, Colors considered: 51, Acc time: 28.231897099998605, Iteration time: 1.6547165999945719
+Colors used: 50, Colors considered: 50, Acc time: 29.841675800002122, Iteration time: 1.6096958000052837
+Colors used: 49, Colors considered: 49, Acc time: 31.413164999998116, Iteration time: 1.5713997999991989
+Colors used: 48, Colors considered: 48, Acc time: 32.932095199998, Iteration time: 1.5188449999986915
+Colors used: 47, Colors considered: 47, Acc time: 34.63294060000044, Iteration time: 1.70075860000361
+Colors used: 46, Colors considered: 46, Acc time: 36.265964400001394, Iteration time: 1.6329490999996779
+Colors used: 45, Colors considered: 45, Acc time: 37.84971769999538, Iteration time: 1.583678199996939
+Colors used: 44, Colors considered: 44, Acc time: 39.602858899997955, Iteration time: 1.7530785999988439
+Colors used: 43, Colors considered: 43, Acc time: 41.10895149999851, Iteration time: 1.506039599997166
+Colors used: 42, Colors considered: 42, Acc time: 42.831509700001334, Iteration time: 1.7224820999981603
+Colors used: 41, Colors considered: 41, Acc time: 44.5802526999978, Iteration time: 1.7486830000052578
+Colors used: 40, Colors considered: 40, Acc time: 46.55314279999584, Iteration time: 1.9728105000031064
+No valid coloring found with current conflicts budget, acc time: 52.8183435999963
+Number of colors used (DSATUR): 45
+DSATUR Coloring Time: 3.2921007000040845
+Number of colors used (SAT): 40
+SAT Coloring Time (Best solution): 46.55314279999584
+SAT Coloring Time (Matched with DSATUR): 37.84971769999538
+
+
+Filename: qg.order60.col
+Vertices: 3600, Edges: 212400
+
+Density: 0.03278688524590164
+DSATUR completed, SAT Starting
+Upper bound 64 calculated using largest_first in: 0.014390100004675332
+Colors used: 64, Colors considered: 64, Acc time: 8.205090499999642, Iteration time: 8.190650300006382
+Colors used: 63, Colors considered: 63, Acc time: 17.29022149999946, Iteration time: 9.084972699994978
+Colors used: 62, Colors considered: 62, Acc time: 27.90089420000004, Iteration time: 10.610301799999434
+Colors used: 61, Colors considered: 61, Acc time: 116.23552770000242, Iteration time: 88.33440530000371
+Colors used: 60, Colors considered: 60, Acc time: 128.39868220000062, Iteration time: 12.162896800000453
+No valid coloring found with current conflicts budget, acc time: 165.5169642000037
+Number of colors used (DSATUR): 69
+DSATUR Coloring Time: 26.185088799997175
+Number of colors used (SAT): 60
+SAT Coloring Time (Best solution): 128.39868220000062
+SAT Coloring Time (Matched with DSATUR): 128.39868220000062
+
+
+Filename: queen10_10.col
+Vertices: 100, Edges: 2940
+
+Density: 0.296969696969697
+DSATUR completed, SAT Starting
+Upper bound 16 calculated using largest_first in: 0.00016790000518085435
+Colors used: 16, Colors considered: 16, Acc time: 0.012294700005440973, Iteration time: 0.012116900004912168
+Colors used: 15, Colors considered: 15, Acc time: 0.022715600003721192, Iteration time: 0.010401100000308361
+Colors used: 14, Colors considered: 14, Acc time: 0.032905700005358085, Iteration time: 0.010173200003919192
+Colors used: 13, Colors considered: 13, Acc time: 0.044475500006228685, Iteration time: 0.011552099997061305
+Colors used: 12, Colors considered: 12, Acc time: 0.05544690000533592, Iteration time: 0.010953699995297939
+No valid coloring found with current conflicts budget, acc time: 1.44218560000445
+Number of colors used (DSATUR): 15
+DSATUR Coloring Time: 0.006629700001212768
+Number of colors used (SAT): 12
+SAT Coloring Time (Best solution): 0.05544690000533592
+SAT Coloring Time (Matched with DSATUR): 0.022715600003721192
+
+
+Filename: queen11_11.col
+Vertices: 121, Edges: 3960
+
+Density: 0.2727272727272727
+DSATUR completed, SAT Starting
+Upper bound 19 calculated using largest_first in: 0.00021669999841833487
+Colors used: 17, Colors considered: 19, Acc time: 0.018546899998909794, Iteration time: 0.018321499999728985
+Colors used: 16, Colors considered: 16, Acc time: 0.03308239999751095, Iteration time: 0.014519099997414742
+Colors used: 15, Colors considered: 15, Acc time: 0.046585999996750616, Iteration time: 0.013489899996784516
+Colors used: 14, Colors considered: 14, Acc time: 0.06495680000080029, Iteration time: 0.018357000000833068
+Colors used: 13, Colors considered: 13, Acc time: 0.08436039999651257, Iteration time: 0.019382700003916398
+No valid coloring found with current conflicts budget, acc time: 1.7534244999988005
+Number of colors used (DSATUR): 15
+DSATUR Coloring Time: 0.010192599998845253
+Number of colors used (SAT): 13
+SAT Coloring Time (Best solution): 0.08436039999651257
+SAT Coloring Time (Matched with DSATUR): 0.046585999996750616
+
+
+Filename: queen12_12.col
+Vertices: 144, Edges: 5192
+
+Density: 0.25213675213675213
+DSATUR completed, SAT Starting
+Upper bound 20 calculated using largest_first in: 0.0002672000046004541
+Colors used: 20, Colors considered: 20, Acc time: 0.024818300000333693, Iteration time: 0.02454060000309255
+Colors used: 19, Colors considered: 19, Acc time: 0.0469881000026362, Iteration time: 0.02215009999781614
+Colors used: 18, Colors considered: 18, Acc time: 0.06788390000292566, Iteration time: 0.02088039999944158
+Colors used: 17, Colors considered: 17, Acc time: 0.09010719999787398, Iteration time: 0.02220600000146078
+Colors used: 16, Colors considered: 16, Acc time: 0.11001630000100704, Iteration time: 0.019892500000423752
+Colors used: 15, Colors considered: 15, Acc time: 0.12862180000229273, Iteration time: 0.01858889999857638
+Colors used: 14, Colors considered: 14, Acc time: 0.7717381000038586, Iteration time: 0.6430970000001253
+No valid coloring found with current conflicts budget, acc time: 2.776447199998074
+Number of colors used (DSATUR): 16
+DSATUR Coloring Time: 0.015309700000216253
+Number of colors used (SAT): 14
+SAT Coloring Time (Best solution): 0.7717381000038586
+SAT Coloring Time (Matched with DSATUR): 0.11001630000100704
+
+
+Filename: queen13_13.col
+Vertices: 169, Edges: 6656
+
+Density: 0.23443223443223443
+DSATUR completed, SAT Starting
+Upper bound 22 calculated using largest_first in: 0.0003339000031701289
+Colors used: 21, Colors considered: 22, Acc time: 0.03443050000350922, Iteration time: 0.03408530000160681
+Colors used: 20, Colors considered: 20, Acc time: 0.0645243000035407, Iteration time: 0.030068300002312753
+Colors used: 19, Colors considered: 19, Acc time: 0.1005801000064821, Iteration time: 0.036032699994393624
+Colors used: 18, Colors considered: 18, Acc time: 0.12695330000133254, Iteration time: 0.02634780000516912
+Colors used: 17, Colors considered: 17, Acc time: 0.15320770000107586, Iteration time: 0.02623459999449551
+Colors used: 16, Colors considered: 16, Acc time: 0.17989890000171727, Iteration time: 0.026669200000469573
+No valid coloring found with current conflicts budget, acc time: 2.6919144000057713
+Number of colors used (DSATUR): 19
+DSATUR Coloring Time: 0.022078599999076687
+Number of colors used (SAT): 16
+SAT Coloring Time (Best solution): 0.17989890000171727
+SAT Coloring Time (Matched with DSATUR): 0.1005801000064821
+
+
+Filename: queen14_14.col
+Vertices: 196, Edges: 8372
+
+Density: 0.21904761904761905
+DSATUR completed, SAT Starting
+Upper bound 23 calculated using largest_first in: 0.0004152999972575344
+Colors used: 22, Colors considered: 23, Acc time: 0.04462000000057742, Iteration time: 0.04419139999663457
+Colors used: 21, Colors considered: 21, Acc time: 0.08336989999952493, Iteration time: 0.03871889999572886
+Colors used: 20, Colors considered: 20, Acc time: 0.12133170000015525, Iteration time: 0.03793189999851165
+Colors used: 19, Colors considered: 19, Acc time: 0.15573989999393234, Iteration time: 0.034377399999357294
+Colors used: 18, Colors considered: 18, Acc time: 0.19210529999691062, Iteration time: 0.036337099998490885
+Colors used: 17, Colors considered: 17, Acc time: 0.22468099999969127, Iteration time: 0.032545800000661984
+No valid coloring found with current conflicts budget, acc time: 3.163929599999392
+Number of colors used (DSATUR): 20
+DSATUR Coloring Time: 0.031214999995427206
+Number of colors used (SAT): 17
+SAT Coloring Time (Best solution): 0.22468099999969127
+SAT Coloring Time (Matched with DSATUR): 0.12133170000015525
+
+
+Filename: queen15_15.col
+Vertices: 225, Edges: 10360
+
+Density: 0.20555555555555555
+DSATUR completed, SAT Starting
+Upper bound 25 calculated using largest_first in: 0.0004924999957438558
+Colors used: 24, Colors considered: 25, Acc time: 0.05917960000078892, Iteration time: 0.0586741000006441
+Colors used: 23, Colors considered: 23, Acc time: 0.11146010000084061, Iteration time: 0.05224820000148611
+Colors used: 22, Colors considered: 22, Acc time: 0.16216739999799756, Iteration time: 0.050673600002483
+Colors used: 21, Colors considered: 21, Acc time: 0.21512849999999162, Iteration time: 0.05292579999513691
+Colors used: 20, Colors considered: 20, Acc time: 0.2618317999949795, Iteration time: 0.04666410000208998
+Colors used: 19, Colors considered: 19, Acc time: 0.30569399999512825, Iteration time: 0.043825699998706114
+Colors used: 18, Colors considered: 18, Acc time: 0.37837669999862555, Iteration time: 0.07265309999638703
+No valid coloring found with current conflicts budget, acc time: 3.760314599996491
+Number of colors used (DSATUR): 21
+DSATUR Coloring Time: 0.04301120000309311
+Number of colors used (SAT): 18
+SAT Coloring Time (Best solution): 0.37837669999862555
+SAT Coloring Time (Matched with DSATUR): 0.21512849999999162
+
+
+Filename: queen16_16.col
+Vertices: 256, Edges: 12640
+
+Density: 0.19362745098039216
+DSATUR completed, SAT Starting
+Upper bound 26 calculated using largest_first in: 0.0005757000035373494
+Colors used: 26, Colors considered: 26, Acc time: 0.0744674000015948, Iteration time: 0.07387889999517938
+Colors used: 25, Colors considered: 25, Acc time: 0.1461496000047191, Iteration time: 0.07164190000185044
+Colors used: 24, Colors considered: 24, Acc time: 0.21435060000658268, Iteration time: 0.06815280000591883
+Colors used: 23, Colors considered: 23, Acc time: 0.2788418000054662, Iteration time: 0.06445379999786383
+Colors used: 22, Colors considered: 22, Acc time: 0.3433562999998685, Iteration time: 0.06448139999702107
+Colors used: 21, Colors considered: 21, Acc time: 0.4120014000000083, Iteration time: 0.06861280000157421
+Colors used: 20, Colors considered: 20, Acc time: 0.46719280000252184, Iteration time: 0.055155699999886565
+Colors used: 19, Colors considered: 19, Acc time: 0.5492078000024776, Iteration time: 0.08198350000020582
+No valid coloring found with current conflicts budget, acc time: 4.363926400001219
+Number of colors used (DSATUR): 21
+DSATUR Coloring Time: 0.05821090000245022
+Number of colors used (SAT): 19
+SAT Coloring Time (Best solution): 0.5492078000024776
+SAT Coloring Time (Matched with DSATUR): 0.4120014000000083
+
+
+Filename: queen5_5.col
+Vertices: 25, Edges: 320
+
+Density: 0.5333333333333333
+DSATUR completed, SAT Starting
+Upper bound 6 calculated using largest_first in: 3.0800001695752144e-05
+Colors used: 6, Colors considered: 6, Acc time: 0.000851700002385769, Iteration time: 0.0008082999993348494
+Colors used: 5, Colors considered: 5, Acc time: 0.0015167000019573607, Iteration time: 0.0006576000014320016
+No valid coloring found with current conflicts budget, acc time: 0.002163900004234165
+Number of colors used (DSATUR): 5
+DSATUR Coloring Time: 0.00032759999885456637
+Number of colors used (SAT): 5
+SAT Coloring Time (Best solution): 0.0015167000019573607
+SAT Coloring Time (Matched with DSATUR): 0.0015167000019573607
+
+
+Filename: queen6_6.col
+Vertices: 36, Edges: 580
+
+Density: 0.4603174603174603
+DSATUR completed, SAT Starting
+Upper bound 9 calculated using largest_first in: 4.569999873638153e-05
+Colors used: 9, Colors considered: 9, Acc time: 0.0017854999969131313, Iteration time: 0.0017334000003756955
+Colors used: 8, Colors considered: 8, Acc time: 0.003305899997940287, Iteration time: 0.0015124000055948272
+Colors used: 7, Colors considered: 7, Acc time: 0.013210500001150649, Iteration time: 0.009895399998640642
+No valid coloring found with current conflicts budget, acc time: 0.421946399997978
+Number of colors used (DSATUR): 9
+DSATUR Coloring Time: 0.0006872000012663193
+Number of colors used (SAT): 7
+SAT Coloring Time (Best solution): 0.013210500001150649
+SAT Coloring Time (Matched with DSATUR): 0.0017854999969131313
+
+
+Filename: queen7_7.col
+Vertices: 49, Edges: 952
+
+Density: 0.40476190476190477
+DSATUR completed, SAT Starting
+Upper bound 13 calculated using largest_first in: 6.640000356128439e-05
+Colors used: 10, Colors considered: 13, Acc time: 0.003642800002126023, Iteration time: 0.0035681000008480623
+Colors used: 9, Colors considered: 9, Acc time: 0.006062000000383705, Iteration time: 0.0024066999976639636
+Colors used: 8, Colors considered: 8, Acc time: 0.0355420000050799, Iteration time: 0.0294692000024952
+Colors used: 7, Colors considered: 7, Acc time: 0.046012200000404846, Iteration time: 0.01045709999743849
+No valid coloring found with current conflicts budget, acc time: 0.054279700001643505
+Number of colors used (DSATUR): 11
+DSATUR Coloring Time: 0.0013561999949160963
+Number of colors used (SAT): 7
+SAT Coloring Time (Best solution): 0.046012200000404846
+SAT Coloring Time (Matched with DSATUR): 0.046012200000404846
+
+
+Filename: queen8_12.col
+Vertices: 96, Edges: 2736
+
+Density: 0.3
+DSATUR completed, SAT Starting
+Upper bound 16 calculated using largest_first in: 0.00016820000018924475
+Colors used: 16, Colors considered: 16, Acc time: 0.010849999998754356, Iteration time: 0.010673700002371334
+Colors used: 15, Colors considered: 15, Acc time: 0.020523300001514144, Iteration time: 0.009659499999543186
+Colors used: 14, Colors considered: 14, Acc time: 0.029403699998511, Iteration time: 0.008869099998264574
+Colors used: 13, Colors considered: 13, Acc time: 0.038800299997092225, Iteration time: 0.009385899997141678
+Colors used: 12, Colors considered: 12, Acc time: 0.053754699998535216, Iteration time: 0.014938499996787868
+No valid coloring found with current conflicts budget, acc time: 0.4998478999987128
+Number of colors used (DSATUR): 14
+DSATUR Coloring Time: 0.00590599999850383
+Number of colors used (SAT): 12
+SAT Coloring Time (Best solution): 0.053754699998535216
+SAT Coloring Time (Matched with DSATUR): 0.029403699998511
+
+
+Filename: queen8_8.col
+Vertices: 64, Edges: 1456
+
+Density: 0.3611111111111111
+DSATUR completed, SAT Starting
+Upper bound 13 calculated using largest_first in: 9.169999975711107e-05
+Colors used: 12, Colors considered: 13, Acc time: 0.004987600004824344, Iteration time: 0.00488749999931315
+Colors used: 11, Colors considered: 11, Acc time: 0.009083099997951649, Iteration time: 0.0040829999998095445
+Colors used: 10, Colors considered: 10, Acc time: 0.014016500004800037, Iteration time: 0.004923299995425623
+Colors used: 9, Colors considered: 9, Acc time: 0.5562538000012864, Iteration time: 0.5422236000013072
+No valid coloring found with current conflicts budget, acc time: 1.4200280000004568
+Number of colors used (DSATUR): 11
+DSATUR Coloring Time: 0.0024065999969025142
+Number of colors used (SAT): 9
+SAT Coloring Time (Best solution): 0.5562538000012864
+SAT Coloring Time (Matched with DSATUR): 0.009083099997951649
+
+
+Filename: queen9_9.col
+Vertices: 81, Edges: 2112
+
+Density: 0.32592592592592595
+DSATUR completed, SAT Starting
+Upper bound 15 calculated using largest_first in: 0.0001213000068673864
+Colors used: 15, Colors considered: 15, Acc time: 0.008045000002312008, Iteration time: 0.00791610000305809
+Colors used: 14, Colors considered: 14, Acc time: 0.015176900000369642, Iteration time: 0.007119000001694076
+Colors used: 13, Colors considered: 13, Acc time: 0.021754200002760626, Iteration time: 0.0065663999994285405
+Colors used: 12, Colors considered: 12, Acc time: 0.027994900003250223, Iteration time: 0.00623020000057295
+Colors used: 11, Colors considered: 11, Acc time: 0.04326030000083847, Iteration time: 0.01524990000325488
+No valid coloring found with current conflicts budget, acc time: 1.2055741000003763
+Number of colors used (DSATUR): 13
+DSATUR Coloring Time: 0.004048100003274158
+Number of colors used (SAT): 11
+SAT Coloring Time (Best solution): 0.04326030000083847
+SAT Coloring Time (Matched with DSATUR): 0.021754200002760626
+
+
+Filename: school1.col
+Vertices: 385, Edges: 19095
+
+Density: 0.2583198051948052
+DSATUR completed, SAT Starting
+Upper bound 32 calculated using largest_first in: 0.0015222000001813285
+Colors used: 32, Colors considered: 32, Acc time: 0.24850619999779155, Iteration time: 0.24696450000192272
+Colors used: 31, Colors considered: 31, Acc time: 0.5272294000023976, Iteration time: 0.27867179999884684
+Colors used: 30, Colors considered: 30, Acc time: 0.7763733000028878, Iteration time: 0.2490990000005695
+Colors used: 29, Colors considered: 29, Acc time: 1.1112608999974327, Iteration time: 0.3348349000007147
+Colors used: 28, Colors considered: 28, Acc time: 1.343453800000134, Iteration time: 0.23215019999770448
+Colors used: 27, Colors considered: 27, Acc time: 1.5578345999965677, Iteration time: 0.21433459999389015
+Colors used: 26, Colors considered: 26, Acc time: 1.7629412999958731, Iteration time: 0.20505170000251383
+Colors used: 25, Colors considered: 25, Acc time: 1.9761244999972405, Iteration time: 0.2131221000017831
+Colors used: 24, Colors considered: 24, Acc time: 2.281218299998727, Iteration time: 0.305054199998267
+Colors used: 23, Colors considered: 23, Acc time: 2.4694696000005933, Iteration time: 0.18820879999839235
+Colors used: 22, Colors considered: 22, Acc time: 2.6399225999994087, Iteration time: 0.1704096000030404
+Colors used: 21, Colors considered: 21, Acc time: 2.799918400000024, Iteration time: 0.15995459999976447
+Colors used: 20, Colors considered: 20, Acc time: 2.9518166999987443, Iteration time: 0.15185290000226814
+Colors used: 19, Colors considered: 19, Acc time: 3.108462899996084, Iteration time: 0.15660750000097323
+Colors used: 18, Colors considered: 18, Acc time: 3.250479100002849, Iteration time: 0.14197640000202227
+Colors used: 17, Colors considered: 17, Acc time: 3.3758775999958743, Iteration time: 0.12535860000207322
+Colors used: 16, Colors considered: 16, Acc time: 3.574778800000786, Iteration time: 0.1988610000043991
+Colors used: 15, Colors considered: 15, Acc time: 3.792250699996657, Iteration time: 0.21743689999857452
+Colors used: 14, Colors considered: 14, Acc time: 4.038091000002169, Iteration time: 0.24580570000398438
+No valid coloring found with current conflicts budget, acc time: 5.208664699996007
+Number of colors used (DSATUR): 17
+DSATUR Coloring Time: 0.2610893999953987
+Number of colors used (SAT): 14
+SAT Coloring Time (Best solution): 4.038091000002169
+SAT Coloring Time (Matched with DSATUR): 3.3758775999958743
+
+
+Filename: school1_nsh.col
+Vertices: 352, Edges: 14612
+
+Density: 0.23653198653198654
+DSATUR completed, SAT Starting
+Upper bound 32 calculated using largest_first in: 0.0012109000017517246
+Colors used: 32, Colors considered: 32, Acc time: 0.19428400000469992, Iteration time: 0.19305419999727746
+Colors used: 31, Colors considered: 31, Acc time: 0.3963805000021239, Iteration time: 0.20205790000181878
+Colors used: 30, Colors considered: 30, Acc time: 0.5751837000061641, Iteration time: 0.1787581999960821
+Colors used: 29, Colors considered: 29, Acc time: 0.7429272000008496, Iteration time: 0.16767930000060005
+Colors used: 28, Colors considered: 28, Acc time: 0.9070012000011047, Iteration time: 0.16403410000202712
+Colors used: 27, Colors considered: 27, Acc time: 1.086565800003882, Iteration time: 0.17944120000174735
+Colors used: 26, Colors considered: 26, Acc time: 1.2561512000029325, Iteration time: 0.16954439999972237
+Colors used: 25, Colors considered: 25, Acc time: 1.4823428000017884, Iteration time: 0.2261512999975821
+Colors used: 24, Colors considered: 24, Acc time: 1.8312686999997823, Iteration time: 0.34888929999578977
+Colors used: 23, Colors considered: 23, Acc time: 2.0405792000019574, Iteration time: 0.20927099999971688
+Colors used: 22, Colors considered: 22, Acc time: 2.2221648000049754, Iteration time: 0.1815470000001369
+Colors used: 21, Colors considered: 21, Acc time: 2.3492463000002317, Iteration time: 0.12704279999888968
+Colors used: 20, Colors considered: 20, Acc time: 2.474487000006775, Iteration time: 0.125202299997909
+Colors used: 19, Colors considered: 19, Acc time: 2.5966992000030586, Iteration time: 0.12217160000000149
+Colors used: 18, Colors considered: 18, Acc time: 2.7124913000006927, Iteration time: 0.11575469999661436
+Colors used: 17, Colors considered: 17, Acc time: 2.901569000001473, Iteration time: 0.18903990000399062
+Colors used: 16, Colors considered: 16, Acc time: 3.1287917000008747, Iteration time: 0.22718669999449048
+Colors used: 15, Colors considered: 15, Acc time: 3.2938296000065748, Iteration time: 0.1650039000014658
+Colors used: 14, Colors considered: 14, Acc time: 3.3810600000069826, Iteration time: 0.08719700000074226
+No valid coloring found with current conflicts budget, acc time: 4.476797000002989
+Number of colors used (DSATUR): 26
+DSATUR Coloring Time: 0.1850073000023258
+Number of colors used (SAT): 14
+SAT Coloring Time (Best solution): 3.3810600000069826
+SAT Coloring Time (Matched with DSATUR): 1.2561512000029325
+
+
+Filename: wap01a.col
+Vertices: 2368, Edges: 110871
+
+Density: 0.03956106772171411
+DSATUR completed, SAT Starting
+Upper bound 52 calculated using largest_first in: 0.009410099999513477
+Colors used: 52, Colors considered: 52, Acc time: 3.4576412000023993, Iteration time: 3.4481932999988203
+Colors used: 51, Colors considered: 51, Acc time: 6.680468200000178, Iteration time: 3.2227596000011545
+Colors used: 50, Colors considered: 50, Acc time: 9.82806900000287, Iteration time: 3.1474897999942186
+Colors used: 49, Colors considered: 49, Acc time: 13.432456499998807, Iteration time: 3.6042767999970238
+Colors used: 48, Colors considered: 48, Acc time: 18.594787299996824, Iteration time: 5.162230300004012
+Colors used: 47, Colors considered: 47, Acc time: 29.42272380000213, Iteration time: 10.827872599998955
+Colors used: 46, Colors considered: 46, Acc time: 40.122285700002976, Iteration time: 10.699477900001511
+Colors used: 45, Colors considered: 45, Acc time: 53.794467200001236, Iteration time: 13.672101700001804
+No valid coloring found with current conflicts budget, acc time: 68.22541769999953
+Number of colors used (DSATUR): 46
+DSATUR Coloring Time: 9.905063399994106
+Number of colors used (SAT): 45
+SAT Coloring Time (Best solution): 53.794467200001236
+SAT Coloring Time (Matched with DSATUR): 40.122285700002976
+
+
+Filename: wap02a.col
+Vertices: 2464, Edges: 111742
+
+Density: 0.03682487832914142
+DSATUR completed, SAT Starting
+Upper bound 47 calculated using largest_first in: 0.009428900004422758
+Colors used: 47, Colors considered: 47, Acc time: 5.140248100004101, Iteration time: 5.130782000000181
+Colors used: 46, Colors considered: 46, Acc time: 10.084685700006958, Iteration time: 4.944368699994811
+Colors used: 45, Colors considered: 45, Acc time: 22.127426100007142, Iteration time: 12.042655899997044
+Colors used: 44, Colors considered: 44, Acc time: 36.04227960000571, Iteration time: 13.914772399999492
+Colors used: 43, Colors considered: 43, Acc time: 51.024853700000676, Iteration time: 14.982505500003754
+No valid coloring found with current conflicts budget, acc time: 65.30377300000691
+Number of colors used (DSATUR): 46
+DSATUR Coloring Time: 10.504812200000742
+Number of colors used (SAT): 43
+SAT Coloring Time (Best solution): 51.024853700000676
+SAT Coloring Time (Matched with DSATUR): 10.084685700006958
+
+
+Filename: wap03a.col
+Vertices: 4730, Edges: 286722
+
+Density: 0.025636607733220913
+DSATUR completed, SAT Starting
+Upper bound 56 calculated using largest_first in: 0.02417520000017248
+Colors used: 56, Colors considered: 56, Acc time: 9.97601030000078, Iteration time: 9.951777599999332
+Colors used: 55, Colors considered: 55, Acc time: 19.959620300003735, Iteration time: 9.98320380000223
+Colors used: 54, Colors considered: 54, Acc time: 29.468018999999913, Iteration time: 9.508277199995064
+Colors used: 53, Colors considered: 53, Acc time: 38.94126479999977, Iteration time: 9.4731421999968
+Colors used: 52, Colors considered: 52, Acc time: 47.9399099000002, Iteration time: 8.998534700003802
+Colors used: 51, Colors considered: 51, Acc time: 64.25074900000618, Iteration time: 16.310706199998094
+Colors used: 50, Colors considered: 50, Acc time: 72.763200100002, Iteration time: 8.512305000003835
+No valid coloring found with current conflicts budget, acc time: 115.15485640000406
+Number of colors used (DSATUR): 56
+DSATUR Coloring Time: 60.283553099994606
+Number of colors used (SAT): 50
+SAT Coloring Time (Best solution): 72.763200100002
+SAT Coloring Time (Matched with DSATUR): 9.97601030000078
+
+
+Filename: wap04a.col
+Vertices: 5231, Edges: 294902
+
+Density: 0.02155863723141896
+DSATUR completed, SAT Starting
+Upper bound 50 calculated using largest_first in: 0.025151699999696575
+Colors used: 50, Colors considered: 50, Acc time: 15.664884699996037, Iteration time: 15.639676099999633
+Colors used: 49, Colors considered: 49, Acc time: 30.697733699998935, Iteration time: 15.032674999994924
+Colors used: 48, Colors considered: 48, Acc time: 45.83222119999846, Iteration time: 15.13437690000137
+Colors used: 47, Colors considered: 47, Acc time: 77.57288029999472, Iteration time: 31.74050869999337
+No valid coloring found with current conflicts budget, acc time: 118.16837939999823
+Number of colors used (DSATUR): 47
+DSATUR Coloring Time: 69.5507834999953
+Number of colors used (SAT): 47
+SAT Coloring Time (Best solution): 77.57288029999472
+SAT Coloring Time (Matched with DSATUR): 77.57288029999472
+
+
+Filename: wap05a.col
+Vertices: 905, Edges: 43081
+
+Density: 0.1053170684007236
+DSATUR completed, SAT Starting
+Upper bound 50 calculated using largest_first in: 0.0036249000040697865
+Colors used: 50, Colors considered: 50, Acc time: 2.274392400002398, Iteration time: 2.2707378000050085
+No valid coloring found with current conflicts budget, acc time: 8.941403500000888
+Number of colors used (DSATUR): 50
+DSATUR Coloring Time: 1.3705337999999756
+Number of colors used (SAT): 50
+SAT Coloring Time (Best solution): 2.274392400002398
+SAT Coloring Time (Matched with DSATUR): 2.274392400002398
+
+
+Filename: wap06a.col
+Vertices: 947, Edges: 43571
+
+Density: 0.09727167800397829
+DSATUR completed, SAT Starting
+Upper bound 48 calculated using largest_first in: 0.0035908999998355284
+Colors used: 48, Colors considered: 48, Acc time: 1.1189346000028308, Iteration time: 1.115317399999185
+Colors used: 47, Colors considered: 47, Acc time: 2.3964739000002737, Iteration time: 1.277489499996591
+Colors used: 46, Colors considered: 46, Acc time: 4.269280000000435, Iteration time: 1.872748200003116
+Colors used: 45, Colors considered: 45, Acc time: 6.031728299996757, Iteration time: 1.7624018999995315
+Colors used: 44, Colors considered: 44, Acc time: 8.197666300002311, Iteration time: 2.165890500000387
+Colors used: 43, Colors considered: 43, Acc time: 11.823095300002024, Iteration time: 3.625376399999368
+Colors used: 42, Colors considered: 42, Acc time: 13.62389339999936, Iteration time: 1.8007448999996996
+No valid coloring found with current conflicts budget, acc time: 19.91696409999713
+Number of colors used (DSATUR): 48
+DSATUR Coloring Time: 1.4461263999983203
+Number of colors used (SAT): 42
+SAT Coloring Time (Best solution): 13.62389339999936
+SAT Coloring Time (Matched with DSATUR): 1.1189346000028308
+
+
+Filename: wap07a.col
+Vertices: 1809, Edges: 103368
+
+Density: 0.0632090286032962
+DSATUR completed, SAT Starting
+Upper bound 49 calculated using largest_first in: 0.008442199999990407
+Colors used: 49, Colors considered: 49, Acc time: 2.7446387999953004, Iteration time: 2.7361636999994516
+Colors used: 48, Colors considered: 48, Acc time: 5.8474697999990894, Iteration time: 3.102730500002508
+Colors used: 47, Colors considered: 47, Acc time: 10.189190199998848, Iteration time: 4.34164640000381
+Colors used: 46, Colors considered: 46, Acc time: 14.420396099994832, Iteration time: 4.231089999993856
+Colors used: 45, Colors considered: 45, Acc time: 18.654198299998825, Iteration time: 4.233692199995858
+Colors used: 44, Colors considered: 44, Acc time: 26.45082679999905, Iteration time: 7.796519099996658
+Colors used: 43, Colors considered: 43, Acc time: 39.13053199999558, Iteration time: 12.679615199995169
+No valid coloring found with current conflicts budget, acc time: 51.69055479999952
+Number of colors used (DSATUR): 46
+DSATUR Coloring Time: 7.075976400003128
+Number of colors used (SAT): 43
+SAT Coloring Time (Best solution): 39.13053199999558
+SAT Coloring Time (Matched with DSATUR): 14.420396099994832
+
+
+Filename: wap08a.col
+Vertices: 1870, Edges: 104176
+
+Density: 0.05961379444525512
+DSATUR completed, SAT Starting
+Upper bound 51 calculated using largest_first in: 0.008581200003391132
+Colors used: 51, Colors considered: 51, Acc time: 2.9422660999989603, Iteration time: 2.9336479999983567
+Colors used: 50, Colors considered: 50, Acc time: 5.69641319999937, Iteration time: 2.7540569999982836
+Colors used: 49, Colors considered: 49, Acc time: 8.39634610000212, Iteration time: 2.699825799994869
+Colors used: 48, Colors considered: 48, Acc time: 11.025635099998908, Iteration time: 2.6292056999955093
+Colors used: 47, Colors considered: 47, Acc time: 13.635441400001582, Iteration time: 2.6096939999988535
+Colors used: 46, Colors considered: 46, Acc time: 17.94681860000128, Iteration time: 4.3112572000027285
+Colors used: 45, Colors considered: 45, Acc time: 22.258826500001305, Iteration time: 4.3118195999995805
+Colors used: 44, Colors considered: 44, Acc time: 29.257092899999407, Iteration time: 6.998205700001563
+Colors used: 43, Colors considered: 43, Acc time: 38.511250600000494, Iteration time: 9.25407560000167
+No valid coloring found with current conflicts budget, acc time: 50.7677765000044
+Number of colors used (DSATUR): 44
+DSATUR Coloring Time: 7.377739499999734
+Number of colors used (SAT): 43
+SAT Coloring Time (Best solution): 38.511250600000494
+SAT Coloring Time (Matched with DSATUR): 29.257092899999407
+
+
+Filename: will199GPIA.col
+Vertices: 701, Edges: 7065
+
+Density: 0.027601385775422864
+DSATUR completed, SAT Starting
+Upper bound 10 calculated using largest_first in: 0.0009086999998544343
+Colors used: 9, Colors considered: 10, Acc time: 0.038250600002356805, Iteration time: 0.037324099997931626
+Colors used: 8, Colors considered: 8, Acc time: 0.06465400000161026, Iteration time: 0.02636750000237953
+Colors used: 7, Colors considered: 7, Acc time: 0.08770260000164853, Iteration time: 0.023019799999019597
+No valid coloring found with current conflicts budget, acc time: 0.12053810000361409
+Number of colors used (DSATUR): 7
+DSATUR Coloring Time: 0.2616433000002871
+Number of colors used (SAT): 7
+SAT Coloring Time (Best solution): 0.08770260000164853
+SAT Coloring Time (Matched with DSATUR): 0.08770260000164853
+
+
+Filename: zeroin.i.1.col
+Vertices: 211, Edges: 4100
+
+Density: 0.5206349206349207
+DSATUR completed, SAT Starting
+Upper bound 49 calculated using largest_first in: 0.00035349999961908907
+Colors used: 49, Colors considered: 49, Acc time: 0.10264209999877494, Iteration time: 0.10227429999940796
+No valid coloring found with current conflicts budget, acc time: 1.7551510999983293
+Number of colors used (DSATUR): 49
+DSATUR Coloring Time: 0.019724500001757406
+Number of colors used (SAT): 49
+SAT Coloring Time (Best solution): 0.10264209999877494
+SAT Coloring Time (Matched with DSATUR): 0.10264209999877494
+
+
+Filename: zeroin.i.2.col
+Vertices: 211, Edges: 3541
+
+Density: 0.28915564265882737
+DSATUR completed, SAT Starting
+Upper bound 30 calculated using largest_first in: 0.00034130000130971894
+Colors used: 30, Colors considered: 30, Acc time: 0.05116709999856539, Iteration time: 0.05081369999970775
+No valid coloring found with current conflicts budget, acc time: 1.1300076999978046
+Number of colors used (DSATUR): 30
+DSATUR Coloring Time: 0.023799099995812867
+Number of colors used (SAT): 30
+SAT Coloring Time (Best solution): 0.05116709999856539
+SAT Coloring Time (Matched with DSATUR): 0.05116709999856539
+
+
+Filename: zeroin.i.3.col
+Vertices: 206, Edges: 3540
+
+Density: 0.28907398334149925
+DSATUR completed, SAT Starting
+Upper bound 30 calculated using largest_first in: 0.0003456999984337017
+Colors used: 30, Colors considered: 30, Acc time: 0.053155000001424924, Iteration time: 0.05279759999393718
+No valid coloring found with current conflicts budget, acc time: 1.118805699996301
+Number of colors used (DSATUR): 30
+DSATUR Coloring Time: 0.024588100000983104
+Number of colors used (SAT): 30
+SAT Coloring Time (Best solution): 0.053155000001424924
+SAT Coloring Time (Matched with DSATUR): 0.053155000001424924
+
+
