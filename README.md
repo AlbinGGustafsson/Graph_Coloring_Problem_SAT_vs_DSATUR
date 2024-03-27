@@ -1,10 +1,12 @@
 To run the experiment scripts, you need to install the following Python packages:
-pysat
-networkx
+pip install pysat
+pip install networkx
 To run the CSV Merger, you need to install:
-pandas
+pip installpandas
 To run the Instance scraper, you need to install:
-bs4 (beautifulsoup4)
+pip install bs4
+
+
 
 To start the experiment, just run experiment.py.
 
