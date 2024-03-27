@@ -6,7 +6,7 @@ pandas
 To run the Instance scraper, you need to install:
 bs4 (beautifulsoup4)
 
-To run the experiment yourself, just run experiment.py.
+To start the experiment, just run experiment.py.
 
 The instances used in the experiment are in the .col format and should be placed in the instance folder. 
 These instances are sourced from [COLOR08](https://mat.tepper.cmu.edu/COLOR08/).
