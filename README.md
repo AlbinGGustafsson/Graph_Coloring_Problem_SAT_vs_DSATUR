@@ -12,7 +12,7 @@ pip install pandas
 
 To run the Instance scraper, you need to install:
 
-pip install bs4
+pip install beautifulsoup4
 
 
 To start the experiment, just run experiment.py.
