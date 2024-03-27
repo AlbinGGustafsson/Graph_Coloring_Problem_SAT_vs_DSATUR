@@ -6,7 +6,7 @@ pip install networkx
 
 To run the CSV Merger, you need to install:
 
-pip installpandas
+pip install pandas
 
 To run the Instance scraper, you need to install:
 
