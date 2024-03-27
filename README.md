@@ -2,7 +2,7 @@ This is an experiment that compares a SAT-solving approach to the heuristic algo
 
 To run the experiment script, you need to install the following Python packages:
 
-pip install pysat
+pip install python-sat
 
 pip install networkx
 
